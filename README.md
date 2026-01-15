@@ -11,6 +11,7 @@
 <!-- ================= FEATURED PROJECTS ================= -->
 <div align="center">
   <h2>📌 Featured Projects</h2>
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gahyeon1022)](https://github.com/gahyeon1022/github-readme-stats)
 
   <a href="https://github.com/gahyeon1022/AIL-ways">
     <img
