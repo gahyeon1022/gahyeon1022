@@ -2,27 +2,26 @@
   <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=F5C0CA&text=GaHyeon's%20GitHub&height=150&fontSize=60" />
 </div>
 
-<br/>
-
 <div align="center">
   <h2>📌 Featured Projects</h2>
 
   <a href="https://github.com/gahyeon1022/AIL-ways">
-    <img src="./assets/pin-ailways.svg" alt="AIL-ways" />
+    <img src="assets/pin-ailways.svg" alt="AIL-ways" />
   </a>
   <a href="https://github.com/gahyeon1022/computergrap">
-    <img src="./assets/pin-computergrap.svg" alt="computergrap" />
+    <img src="assets/pin-computergrap.svg" alt="computergrap" />
   </a>
 
   <br/>
 
   <a href="https://github.com/Do-um/Backend">
-    <img src="./assets/pin-backend.svg" alt="Do-um Backend" />
+    <img src="assets/pin-backend.svg" alt="Do-um Backend" />
   </a>
   <a href="https://github.com/seunG-Zzun/SWingSpace">
-    <img src="./assets/pin-swingspace.svg" alt="SWingSpace" />
+    <img src="assets/pin-swingspace.svg" alt="SWingSpace" />
   </a>
 </div>
+
 
 
 
@@ -37,8 +36,9 @@
 
 <div align="center">
   <h2>📚 Top Languages</h2>
-  <img src="./assets/top-langs.svg" alt="Top Languages" />
+  <img src="assets/top-langs.svg" alt="Top Languages" />
 </div>
+
 
 
 <br/>
