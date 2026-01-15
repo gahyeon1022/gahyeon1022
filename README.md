@@ -8,63 +8,12 @@
 
 <br/>
 
-<!-- ================= FEATURED PROJECTS ================= -->
-<div align="center">
-  <h2>📌 Featured Projects</h2>
-
-  <a href="https://github.com/gahyeon1022/AIL-ways">
-    <img
-      src="https://raw.githubusercontent.com/gahyeon1022/gahyeon1022/main/assets/pin-ailways.svg?raw=1"
-      width="400"
-      alt="AIL-ways"
-    />
-  </a>
-  <a href="https://github.com/gahyeon1022/computergrap">
-    <img
-      src="https://raw.githubusercontent.com/gahyeon1022/gahyeon1022/main/assets/pin-computergrap.svg?raw=1"
-      width="400"
-      alt="computergrap"
-    />
-  </a>
-
-  <br/>
-
-  <a href="https://github.com/Do-um/Backend">
-    <img
-      src="https://raw.githubusercontent.com/gahyeon1022/gahyeon1022/main/assets/pin-backend.svg?raw=1"
-      width="400"
-      alt="Do-um Backend"
-    />
-  </a>
-  <a href="https://github.com/seunG-Zzun/SWingSpace">
-    <img
-      src="https://raw.githubusercontent.com/gahyeon1022/gahyeon1022/main/assets/pin-swingspace.svg?raw=1"
-      width="400"
-      alt="SWingSpace"
-    />
-  </a>
-</div>
-
-<br/>
-
 <!-- ================= CONTRIBUTIONS ================= -->
 <div align="center">
   <h2>🌱 Contributions</h2>
   <img
     src="https://ghchart.rshah.org/409ba5/gahyeon1022"
     alt="GitHub Contributions"
-  />
-</div>
-
-<br/>
-
-<!-- ================= TOP LANGUAGES ================= -->
-<div align="center">
-  <h2>📚 Top Languages</h2>
-  <img
-    src="https://raw.githubusercontent.com/gahyeon1022/gahyeon1022/main/assets/top-langs.svg?raw=1"
-    width="400"
-    alt="Top Languages"
   />
 </div>
 
