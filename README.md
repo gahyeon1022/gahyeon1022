@@ -49,5 +49,8 @@
 
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gahyeon1022&theme=radical)
 
+  <img src="./assets/metrics.svg" alt="Metrics" />
+
+
 
 </div>
