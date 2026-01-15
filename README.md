@@ -61,11 +61,7 @@
 <!-- ================= TOP LANGUAGES ================= -->
 <div align="center">
   <h2>📚 Top Languages</h2>
-  <img
-    src="https://raw.githubusercontent.com/gahyeon1022/gahyeon1022/main/assets/top-langs.svg?raw=1"
-    width="400"
-    alt="Top Languages"
-  />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gahyeon1022&layout=compact&theme=dracula)
 </div>
 
 <br/>
