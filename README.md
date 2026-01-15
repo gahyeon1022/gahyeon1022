@@ -5,6 +5,42 @@
 <br/>
 
 <div align="center">
+  <h2>📌 Featured Projects</h2>
+
+  <a href="https://github.com/gahyeon1022/AIL-ways">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=gahyeon1022&repo=AIL-ways&theme=radical" />
+  </a>
+  <a href="https://github.com/gahyeon1022/computergrap">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=gahyeon1022&repo=computergrap&theme=radical" />
+  </a>
+
+  <br/>
+
+  <a href="https://github.com/Do-um/Backend">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Do-um&repo=Backend&theme=radical" />
+  </a>
+  <a href="https://github.com/seunG-Zzun/SWingSpace">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=seunG-Zzun&repo=SWingSpace&theme=radical" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <h2>🌱 Contributions</h2>
+  <img src="https://ghchart.rshah.org/409ba5/gahyeon1022" alt="GitHub chart" />
+</div>
+
+<br/>
+
+<div align="center">
+  <h2>📚 Top Languages</h2>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gahyeon1022&layout=compact&theme=radical" />
+</div>
+
+<br/>
+
+<div align="center">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🧑‍💻 Contact me 🧑‍💻</h2>
 
   <a href="https://gahyeon1022.notion.site" target="_blank">
@@ -47,10 +83,9 @@
 <div align="center">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">📋 Stat 📋</h2>
 
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gahyeon1022&theme=radical)
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gahyeon1022&theme=radical" alt="Profile Details" />
+
+  <br/><br/>
 
   <img src="./assets/metrics.svg" alt="Metrics" />
-
-
-
 </div>
