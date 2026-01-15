@@ -2,7 +2,7 @@ name: Update Cards
 
 on:
   schedule:
-    - cron: "0 1 * * *"   # 매일 01:00 UTC (한국시간 오전 10시)
+    - cron: "0 1 * * *"
   workflow_dispatch:
 
 permissions:
@@ -13,26 +13,37 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
-      - name: Download pinned cards & langs
+      - name: Download SVGs
         run: |
           mkdir -p assets
 
-          # Pinned cards
           curl -L "https://github-readme-stats.vercel.app/api/pin/?username=gahyeon1022&repo=AIL-ways&theme=radical" -o assets/pin-ailways.svg
           curl -L "https://github-readme-stats.vercel.app/api/pin/?username=gahyeon1022&repo=computergrap&theme=radical" -o assets/pin-computergrap.svg
           curl -L "https://github-readme-stats.vercel.app/api/pin/?username=Do-um&repo=Backend&theme=radical" -o assets/pin-backend.svg
           curl -L "https://github-readme-stats.vercel.app/api/pin/?username=seunG-Zzun&repo=SWingSpace&theme=radical" -o assets/pin-swingspace.svg
-
-          # Top langs
           curl -L "https://github-readme-stats.vercel.app/api/top-langs/?username=gahyeon1022&layout=compact&theme=radical" -o assets/top-langs.svg
+
+      - name: Convert SVG to PNG
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y librsvg2-bin
+
+          rsvg-convert assets/pin-ailways.svg -o assets/pin-ailways.png
+          rsvg-convert assets/pin-computergrap.svg -o assets/pin-computergrap.png
+          rsvg-convert assets/pin-backend.svg -o assets/pin-backend.png
+          rsvg-convert assets/pin-swingspace.svg -o assets/pin-swingspace.png
+          rsvg-convert assets/top-langs.svg -o assets/top-langs.png
 
       - name: Commit and push if changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add assets/*.svg
-          git commit -m "chore: update cards" || exit 0
-          git pull --rebase
-          git push
 
+          git add assets/*.png
+          git commit -m "chore: update cards (png)" || exit 0
+
+          git pull --rebase origin main || true
+          git push origin main
