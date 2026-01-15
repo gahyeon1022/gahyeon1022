@@ -47,6 +47,7 @@
 <div align="center">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">📋 Stat 📋</h2>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=gahyeon1022&show_icons=true&theme=radical&cache_seconds=3600"
-       alt="GitHub Stats" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=gahyeon1022&show_icons=true&theme=radical"
+     alt="GitHub Stats" />
+
 </div>
