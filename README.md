@@ -11,38 +11,21 @@
 <!-- ================= FEATURED PROJECTS ================= -->
 <div align="center">
   <h2>📌 Featured Projects</h2>
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gahyeon1022)](https://github.com/gahyeon1022/github-readme-stats)
 
   <a href="https://github.com/gahyeon1022/AIL-ways">
-    <img
-      src="https://raw.githubusercontent.com/gahyeon1022/gahyeon1022/main/assets/pin-ailways.svg?raw=1"
-      width="400"
-      alt="AIL-ways"
-    />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gahyeon1022&repo=AIL-ways&theme=radical" width="400" />
   </a>
   <a href="https://github.com/gahyeon1022/computergrap">
-    <img
-      src="https://raw.githubusercontent.com/gahyeon1022/gahyeon1022/main/assets/pin-computergrap.svg?raw=1"
-      width="400"
-      alt="computergrap"
-    />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gahyeon1022&repo=computergrap&theme=radical" width="400" />
   </a>
 
   <br/>
 
   <a href="https://github.com/Do-um/Backend">
-    <img
-      src="https://raw.githubusercontent.com/gahyeon1022/gahyeon1022/main/assets/pin-backend.svg?raw=1"
-      width="400"
-      alt="Do-um Backend"
-    />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Do-um&repo=Backend&theme=radical" width="400" />
   </a>
   <a href="https://github.com/seunG-Zzun/SWingSpace">
-    <img
-      src="https://raw.githubusercontent.com/gahyeon1022/gahyeon1022/main/assets/pin-swingspace.svg?raw=1"
-      width="400"
-      alt="SWingSpace"
-    />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=seunG-Zzun&repo=SWingSpace&theme=radical" width="400" />
   </a>
 </div>
 
@@ -51,52 +34,39 @@
 <!-- ================= CONTRIBUTIONS ================= -->
 <div align="center">
   <h2>🌱 Contributions</h2>
-  <img
-    src="https://ghchart.rshah.org/409ba5/gahyeon1022"
-    alt="GitHub Contributions"
-  />
+  <img src="https://ghchart.rshah.org/409ba5/gahyeon1022" alt="GitHub Contributions" />
 </div>
 
 <br/>
 
-<!-- ================= TOP LANGUAGES ================= -->
+<!-- ================= STATS (Cards) ================= -->
 <div align="center">
+  <h2>📊 Stats</h2>
 
-<br>
-
-<a href="https://github.com/gahyeon1022">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=gahyeon1022&show_icons=true&theme=buefy&card_width=300" />
-</a>
-<a href="https://github.com/gahyeon1022?tab=repositories">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gahyeon1022&layout=compact&langs_count=8&card_width=300" />
-</a>
-
-
+  <a href="https://github.com/gahyeon1022">
+    <img height="200" src="https://github-readme-stats.vercel.app/api?username=gahyeon1022&show_icons=true&theme=radical&card_width=300" />
+  </a>
+  <a href="https://github.com/gahyeon1022?tab=repositories">
+    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gahyeon1022&layout=compact&langs_count=8&theme=radical&card_width=300" />
+  </a>
 </div>
+
+<br/>
 
 <!-- ================= CONTACT ================= -->
 <div align="center">
   <h2>🧑‍💻 Contact me 🧑‍💻</h2>
 
   <a href="https://gahyeon1022.notion.site" target="_blank">
-    <img
-      src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"
-      alt="Notion"
-    />
+    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white" alt="Notion" />
   </a>
 
   <a href="https://www.instagram.com/imgahyoiess" target="_blank">
-    <img
-      src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"
-      alt="Instagram"
-    />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
   </a>
 
   <a href="mailto:gahyeon1022@kookmin.ac.kr">
-    <img
-      src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"
-      alt="Gmail"
-    />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail" />
   </a>
 </div>
 
@@ -124,23 +94,4 @@
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white" />
-</div>
-
-<br/>
-
-<!-- ================= STATS ================= -->
-<div align="center">
-  <h2>📋 Stat 📋</h2>
-
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gahyeon1022&theme=radical"
-    alt="Profile Details"
-  />
-
-  <br/><br/>
-
-  <img
-    src="https://raw.githubusercontent.com/gahyeon1022/gahyeon1022/main/assets/metrics.svg?raw=1"
-    alt="Metrics"
-  />
 </div>
