@@ -10,19 +10,19 @@
   <h2>📌 Featured Projects</h2>
 
   <a href="https://github.com/gahyeon1022/AIL-ways">
-    <img src="assets/pin-ailways.svg" alt="AIL-ways" width="400" />
+    <img src="https://raw.githubusercontent.com/gahyeon1022/gahyeon1022/main/assets/pin-ailways.svg" width="400" />
   </a>
   <a href="https://github.com/gahyeon1022/computergrap">
-    <img src="assets/pin-computergrap.svg" alt="computergrap" width="400" />
+    <img src="https://raw.githubusercontent.com/gahyeon1022/gahyeon1022/main/assets/pin-computergrap.svg" width="400" />
   </a>
 
   <br/>
 
   <a href="https://github.com/Do-um/Backend">
-    <img src="assets/pin-backend.svg" alt="Do-um Backend" width="400" />
+    <img src="https://raw.githubusercontent.com/gahyeon1022/gahyeon1022/main/assets/pin-backend.svg" width="400" />
   </a>
   <a href="https://github.com/seunG-Zzun/SWingSpace">
-    <img src="assets/pin-swingspace.svg" alt="SWingSpace" width="400" />
+    <img src="https://raw.githubusercontent.com/gahyeon1022/gahyeon1022/main/assets/pin-swingspace.svg" width="400" />
   </a>
 </div>
 
@@ -31,7 +31,7 @@
 <!-- CONTRIBUTIONS -->
 <div align="center">
   <h2>🌱 Contributions</h2>
-  <img src="https://ghchart.rshah.org/409ba5/gahyeon1022" alt="GitHub chart" />
+  <img src="https://ghchart.rshah.org/409ba5/gahyeon1022" />
 </div>
 
 <br/>
@@ -39,23 +39,21 @@
 <!-- TOP LANGUAGES -->
 <div align="center">
   <h2>📚 Top Languages</h2>
-  <img src="assets/top-langs.svg" alt="Top Languages" width="400" />
+  <img src="https://raw.githubusercontent.com/gahyeon1022/gahyeon1022/main/assets/top-langs.svg" width="400" />
 </div>
 
 <br/>
 
 <!-- CONTACT -->
 <div align="center">
-  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🧑‍💻 Contact me 🧑‍💻</h2>
+  <h2>🧑‍💻 Contact me 🧑‍💻</h2>
 
-  <a href="https://gahyeon1022.notion.site" target="_blank">
+  <a href="https://gahyeon1022.notion.site">
     <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
   </a>
-
-  <a href="https://www.instagram.com/imgahyoiess" target="_blank">
+  <a href="https://www.instagram.com/imgahyoiess">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
   </a>
-
   <a href="mailto:gahyeon1022@kookmin.ac.kr">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
   </a>
@@ -63,37 +61,10 @@
 
 <br/>
 
-<!-- EMAIL -->
-<h2 align="center">📧 Email 📧</h2>
-<p align="center"><strong>gahyeon1022@kookmin.ac.kr</strong></p>
-
-<br/>
-
-<!-- TECH STACK -->
-<div align="center">
-  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">✨ Tech Stack ✨</h2>
-
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
-  <img src="https://img.shields.io/badge/C++-A8B9CC?style=for-the-badge&logo=C++&logoColor=white">
-  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=white">
-  <br/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
-  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
-  <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
-</div>
-
-<br/>
-
 <!-- STATS -->
 <div align="center">
-  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">📋 Stat 📋</h2>
-
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gahyeon1022&theme=radical" alt="Profile Details" />
-
+  <h2>📋 Stat 📋</h2>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gahyeon1022&theme=radical" />
   <br/><br/>
-
-  <img src="assets/metrics.svg" alt="Metrics" />
+  <img src="https://raw.githubusercontent.com/gahyeon1022/gahyeon1022/main/assets/metrics.svg" />
 </div>
