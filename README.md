@@ -61,10 +61,18 @@
 
 <!-- ================= TOP LANGUAGES ================= -->
 <div align="center">
-  <h2>📚 Top Languages</h2>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gahyeon1022)](https://github.com/gahyeon1022/github-readme-stats)
 
-<br/>
+<br>
+
+<a href="https://github.com/gahyeon1022">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=gahyeon1022&show_icons=true&theme=buefy&card_width=300" />
+</a>
+<a href="https://github.com/gahyeon1022?tab=repositories">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gahyeon1022&layout=compact&langs_count=8&card_width=300" />
+</a>
+
+
+</div>
 
 <!-- ================= CONTACT ================= -->
 <div align="center">
