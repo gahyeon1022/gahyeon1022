@@ -1,0 +1,36 @@
+name: Update Cards
+
+on:
+  schedule:
+    - cron: "0 1 * * *"   # 매일 01:00 UTC (한국시간 오전 10시)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  cards:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Download pinned cards & langs
+        run: |
+          mkdir -p assets
+
+          # Pinned cards
+          curl -L "https://github-readme-stats.vercel.app/api/pin/?username=gahyeon1022&repo=AIL-ways&theme=radical" -o assets/pin-ailways.svg
+          curl -L "https://github-readme-stats.vercel.app/api/pin/?username=gahyeon1022&repo=computergrap&theme=radical" -o assets/pin-computergrap.svg
+          curl -L "https://github-readme-stats.vercel.app/api/pin/?username=Do-um&repo=Backend&theme=radical" -o assets/pin-backend.svg
+          curl -L "https://github-readme-stats.vercel.app/api/pin/?username=seunG-Zzun&repo=SWingSpace&theme=radical" -o assets/pin-swingspace.svg
+
+          # Top langs
+          curl -L "https://github-readme-stats.vercel.app/api/top-langs/?username=gahyeon1022&layout=compact&theme=radical" -o assets/top-langs.svg
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add assets/*.svg
+          git commit -m "chore: update cards" || exit 0
+          git push
