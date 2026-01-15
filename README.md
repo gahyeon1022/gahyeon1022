@@ -1,32 +1,34 @@
+<!-- HEADER -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=F5C0CA&text=GaHyeon's%20GitHub&height=150&fontSize=60" />
 </div>
 
+<br/>
+
+<!-- FEATURED PROJECTS -->
 <div align="center">
   <h2>📌 Featured Projects</h2>
 
   <a href="https://github.com/gahyeon1022/AIL-ways">
-    <img src="assets/pin-ailways.svg" alt="AIL-ways" />
+    <img src="assets/pin-ailways.svg" alt="AIL-ways" width="400" />
   </a>
   <a href="https://github.com/gahyeon1022/computergrap">
-    <img src="assets/pin-computergrap.svg" alt="computergrap" />
+    <img src="assets/pin-computergrap.svg" alt="computergrap" width="400" />
   </a>
 
   <br/>
 
   <a href="https://github.com/Do-um/Backend">
-    <img src="assets/pin-backend.svg" alt="Do-um Backend" />
+    <img src="assets/pin-backend.svg" alt="Do-um Backend" width="400" />
   </a>
   <a href="https://github.com/seunG-Zzun/SWingSpace">
-    <img src="assets/pin-swingspace.svg" alt="SWingSpace" />
+    <img src="assets/pin-swingspace.svg" alt="SWingSpace" width="400" />
   </a>
 </div>
 
-
-
-
 <br/>
 
+<!-- CONTRIBUTIONS -->
 <div align="center">
   <h2>🌱 Contributions</h2>
   <img src="https://ghchart.rshah.org/409ba5/gahyeon1022" alt="GitHub chart" />
@@ -34,15 +36,15 @@
 
 <br/>
 
+<!-- TOP LANGUAGES -->
 <div align="center">
   <h2>📚 Top Languages</h2>
-  <img src="assets/top-langs.svg" alt="Top Languages" />
+  <img src="assets/top-langs.svg" alt="Top Languages" width="400" />
 </div>
-
-
 
 <br/>
 
+<!-- CONTACT -->
 <div align="center">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🧑‍💻 Contact me 🧑‍💻</h2>
 
@@ -61,11 +63,13 @@
 
 <br/>
 
+<!-- EMAIL -->
 <h2 align="center">📧 Email 📧</h2>
 <p align="center"><strong>gahyeon1022@kookmin.ac.kr</strong></p>
 
 <br/>
 
+<!-- TECH STACK -->
 <div align="center">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">✨ Tech Stack ✨</h2>
 
@@ -83,6 +87,7 @@
 
 <br/>
 
+<!-- STATS -->
 <div align="center">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">📋 Stat 📋</h2>
 
@@ -90,5 +95,5 @@
 
   <br/><br/>
 
-  <img src="./assets/metrics.svg" alt="Metrics" />
+  <img src="assets/metrics.svg" alt="Metrics" />
 </div>
