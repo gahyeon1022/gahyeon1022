@@ -61,8 +61,7 @@
 <!-- ================= TOP LANGUAGES ================= -->
 <div align="center">
   <h2>📚 Top Languages</h2>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gahyeon1022&layout=compact&theme=dracula)
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gahyeon1022)](https://github.com/사용자이름/github-readme-stats)
 
 <br/>
 
