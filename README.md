@@ -8,21 +8,23 @@
   <h2>📌 Featured Projects</h2>
 
   <a href="https://github.com/gahyeon1022/AIL-ways">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=gahyeon1022&repo=AIL-ways&theme=radical" />
+    <img src="./assets/pin-ailways.svg" alt="AIL-ways" />
   </a>
   <a href="https://github.com/gahyeon1022/computergrap">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=gahyeon1022&repo=computergrap&theme=radical" />
+    <img src="./assets/pin-computergrap.svg" alt="computergrap" />
   </a>
 
   <br/>
 
   <a href="https://github.com/Do-um/Backend">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Do-um&repo=Backend&theme=radical" />
+    <img src="./assets/pin-backend.svg" alt="Do-um Backend" />
   </a>
   <a href="https://github.com/seunG-Zzun/SWingSpace">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=seunG-Zzun&repo=SWingSpace&theme=radical" />
+    <img src="./assets/pin-swingspace.svg" alt="SWingSpace" />
   </a>
 </div>
+
+
 
 <br/>
 
@@ -35,8 +37,9 @@
 
 <div align="center">
   <h2>📚 Top Languages</h2>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gahyeon1022&layout=compact&theme=radical" />
+  <img src="./assets/top-langs.svg" alt="Top Languages" />
 </div>
+
 
 <br/>
 
