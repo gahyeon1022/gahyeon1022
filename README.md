@@ -123,7 +123,6 @@
 ![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white)
 ![OpenRouter](https://img.shields.io/badge/OpenRouter-6C63FF?style=for-the-badge&logo=openai&logoColor=white)
 ![Qwen2.5--VL](https://img.shields.io/badge/Qwen2.5--VL-7C3AED?style=for-the-badge&logo=alibabacloud&logoColor=white)
-![DeepSeek OCR 2](https://img.shields.io/badge/DeepSeek%20OCR%202-111827?style=for-the-badge&logo=deepnote&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![PyMuPDF](https://img.shields.io/badge/PyMuPDF-00599C?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)
