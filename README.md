@@ -7,7 +7,8 @@
   />
 
   <p>
-    문제를 구조화하고, 서비스로 동작하는 결과물을 만드는 개발자입니다.
+    사회에 필요한 문제를 기술로 풀어내고 싶은 백엔드 개발자입니다.
+    사용자의 불편을 발견하고, 안정적인 서버와 AI 기술로 실제 서비스까지 연결하는 데 관심이 있습니다.
   </p>
 
   <p>
@@ -202,28 +203,6 @@
 
 <!-- ================= STATS ================= -->
 <div align="center">
-
-## 📊 GitHub Stats
-
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=gahyeon1022&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F5C0CA&icon_color=BFA2DB&text_color=E6EDF3"
-    alt="GitHub Stats"
-  />
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gahyeon1022&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F5C0CA&text_color=E6EDF3"
-    alt="Top Languages"
-  />
-
-  <br/><br/>
-
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gahyeon1022&theme=radical"
-    alt="Profile Details"
-  />
-
-</div>
 
 <br/>
 
