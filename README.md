@@ -2,7 +2,7 @@
 <div align="center">
 
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:F5C0CA,100:BFA2DB&height=210&section=header&text=GaHyeon's%20GitHub&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20%7C%20Backend%20%7C%20Web%20Development&descSize=18&descAlignY=58"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:F5C0CA,100:BFA2DB&height=210&section=header&text=GaHyeon's%20GitHub&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Backend%20%7C%20AI%20%7C%20Server%20Development&descSize=18&descAlignY=58"
     alt="GaHyeon's GitHub"
   />
 
@@ -50,13 +50,6 @@
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
 
-### Frontend
-
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-
 ### Data & Infra
 
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -92,8 +85,10 @@
       </p>
       <p>
         <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
-        <img src="https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=nextdotjs&logoColor=white" />
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+        <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
       </p>
       <a href="https://github.com/gahyeon1022/AIL-ways">Repository</a>
     </td>
@@ -105,7 +100,9 @@
       </p>
       <p>
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+        <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" />
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
       </p>
       <a href="https://github.com/kookmin-sw/2026-capstone-23">Repository</a>
@@ -121,9 +118,10 @@
         서비스 핵심 API와 서버 로직을 담당하는 백엔드 레포지토리입니다.
       </p>
       <p>
-        <img src="https://img.shields.io/badge/Backend-111827?style=flat-square" />
+        <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+        <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" />
         <img src="https://img.shields.io/badge/API-2563EB?style=flat-square" />
-        <img src="https://img.shields.io/badge/Team Project-BFA2DB?style=flat-square" />
+        <img src="https://img.shields.io/badge/Backend-111827?style=flat-square" />
       </p>
       <a href="https://github.com/kmu-capstone2026/backend">Repository</a>
     </td>
@@ -134,8 +132,10 @@
         팀 프로젝트에서 서버 기능과 API 개발을 중심으로 진행한 백엔드 프로젝트입니다.
       </p>
       <p>
-        <img src="https://img.shields.io/badge/Backend-111827?style=flat-square" />
-        <img src="https://img.shields.io/badge/Server-0F766E?style=flat-square" />
+        <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+        <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+        <img src="https://img.shields.io/badge/API-2563EB?style=flat-square" />
         <img src="https://img.shields.io/badge/Collaboration-F5C0CA?style=flat-square" />
       </p>
       <a href="https://github.com/Do-um/Backend">Repository</a>
@@ -149,7 +149,8 @@
         사용자 흐름과 서비스 기능 구현을 중심으로 진행한 웹 서비스 프로젝트입니다.
       </p>
       <p>
-        <img src="https://img.shields.io/badge/Web Service-2563EB?style=flat-square" />
+        <img src="https://img.shields.io/badge/Backend-111827?style=flat-square" />
+        <img src="https://img.shields.io/badge/API-2563EB?style=flat-square" />
         <img src="https://img.shields.io/badge/Team Project-7C3AED?style=flat-square" />
       </p>
       <a href="https://github.com/gahyeon1022/2.a.m">Repository</a>
@@ -161,7 +162,9 @@
         팀 협업을 기반으로 서비스 기능과 구조를 설계한 소프트웨어 프로젝트입니다.
       </p>
       <p>
-        <img src="https://img.shields.io/badge/Software Project-334155?style=flat-square" />
+        <img src="https://img.shields.io/badge/Backend-111827?style=flat-square" />
+        <img src="https://img.shields.io/badge/Server-0F766E?style=flat-square" />
+        <img src="https://img.shields.io/badge/API-2563EB?style=flat-square" />
         <img src="https://img.shields.io/badge/Collaboration-0E7490?style=flat-square" />
       </p>
       <a href="https://github.com/seunG-Zzun/SWingSpace">Repository</a>
@@ -200,6 +203,27 @@
 <!-- ================= STATS ================= -->
 <div align="center">
 
+## 📊 GitHub Stats
+
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=gahyeon1022&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F5C0CA&icon_color=BFA2DB&text_color=E6EDF3"
+    alt="GitHub Stats"
+  />
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gahyeon1022&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F5C0CA&text_color=E6EDF3"
+    alt="Top Languages"
+  />
+
+  <br/><br/>
+
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gahyeon1022&theme=radical"
+    alt="Profile Details"
+  />
+
+</div>
 
 <br/>
 
