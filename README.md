@@ -200,27 +200,6 @@
 <!-- ================= STATS ================= -->
 <div align="center">
 
-## 📊 GitHub Stats
-
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=gahyeon1022&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F5C0CA&icon_color=BFA2DB&text_color=E6EDF3"
-    alt="GitHub Stats"
-  />
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gahyeon1022&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F5C0CA&text_color=E6EDF3"
-    alt="Top Languages"
-  />
-
-  <br/><br/>
-
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gahyeon1022&theme=radical"
-    alt="Profile Details"
-  />
-
-</div>
 
 <br/>
 
