@@ -71,6 +71,92 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white" />
 </div>
 
+## Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>AIL-ways</h3>
+      <p>AI 기반 프로젝트</p>
+      <p>
+        <a href="https://github.com/gahyeon1022/AIL-ways.git">Repository</a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3>2.a.m</h3>
+      <p>팀 프로젝트 / 웹 서비스</p>
+      <p>
+        <a href="https://github.com/gahyeon1022/2.a.m.git">Repository</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>Computer Graphics</h3>
+      <p>컴퓨터 그래픽스 프로젝트</p>
+      <p>
+        <a href="https://github.com/gahyeon1022/computergrap.git">Repository</a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3>Do-um Backend</h3>
+      <p>Do-um 서비스 백엔드 개발</p>
+      <p>
+        <a href="https://github.com/Do-um/Backend.git">Repository</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>C Snake Game</h3>
+      <p>C 언어 기반 스네이크 게임</p>
+      <p>
+        <a href="https://github.com/kenneth5020/C-snake_game.git">Repository</a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3>SWingSpace</h3>
+      <p>팀 협업 기반 소프트웨어 프로젝트</p>
+      <p>
+        <a href="https://github.com/seunG-Zzun/SWingSpace.git">Repository</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>Capstone Backend</h3>
+      <p>2026 캡스톤 프로젝트 백엔드</p>
+      <p>
+        <a href="https://github.com/kmu-capstone2026/backend.git">Repository</a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3>2026 Capstone 23</h3>
+      <p>국민대학교 소프트웨어 캡스톤 프로젝트</p>
+      <p>
+        <a href="https://github.com/kookmin-sw/2026-capstone-23.git">Repository</a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+## Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+</p>
+
+## GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=gahyeon1022&show_icons=true&theme=default)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gahyeon1022&layout=compact)
+
 <br/>
 
 <!-- ================= STATS ================= -->
