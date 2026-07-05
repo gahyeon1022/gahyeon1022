@@ -261,13 +261,4 @@
 </div>
 
 <br/>
-
-<!-- ================= FOOTER ================= -->
-<div align="center">
-
-  <img
-    src="https://capsule-render.vercel.app/api?type=venom&color=0:C9A7FF,45:F5A9C8,100:FFF1F7&height=150&section=footer&animation=fadeIn"
-    alt="footer"
-  />
-
 </div>
