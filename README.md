@@ -2,7 +2,7 @@
 <div align="center">
 
   <img
-    src="https://capsule-render.vercel.app/api?type=rounded&color=0:FFF1F7,35:F8BBD0,70:E6C9FF,100:C9A7FF&height=190&section=header&text=GaHyeon's%20GitHub&fontSize=48&fontColor=ffffff&fontAlignY=40&desc=Backend%20Developer%20%7C%20AI%20Service%20Builder%20%7C%20Server%20Engineering&descSize=16&descAlignY=64&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=soft&color=0:FFF1F7,35:F8BBD0,70:E6C9FF,100:C9A7FF&height=210&section=header&text=GaHyeon's%20GitHub&fontSize=50&fontColor=ffffff&fontAlignY=39&desc=Backend%20Developer%20%7C%20AI%20Service%20Builder%20%7C%20Server%20Engineering&descSize=16&descAlignY=61&animation=fadeIn"
     alt="GaHyeon's GitHub"
   />
 
@@ -264,7 +264,7 @@
 <div align="center">
 
   <img
-    src="https://capsule-render.vercel.app/api?type=rounded&color=0:C9A7FF,45:F5A9C8,100:FFF1F7&height=90&section=footer&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=soft&color=0:C9A7FF,45:F5A9C8,100:FFF1F7&height=120&section=footer&animation=fadeIn"
     alt="footer"
   />
 
