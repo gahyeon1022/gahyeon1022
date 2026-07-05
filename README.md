@@ -2,11 +2,12 @@
 <div align="center">
 
   <img
-    src="https://capsule-render.vercel.app/api?type=venom&color=0:FFF1F7,35:F8BBD0,70:E6C9FF,100:C9A7FF&height=260&section=header&text=GaHyeon's%20GitHub&fontSize=54&fontColor=ffffff&stroke=F3AFC6&strokeWidth=1&fontAlignY=42&desc=Backend%20Developer%20%7C%20AI%20Service%20Builder%20%7C%20Server%20Engineering&descSize=17&descAlignY=61&descColor=FFF7FB&descStroke=F3AFC6&descStrokeWidth=1&animation=fadeIn"
-    alt="GaHyeon's GitHub"
+    src="https://capsule-render.vercel.app/api?type=venom&color=0:FFF1F7,35:F8BBD0,70:E6C9FF,100:C9A7FF&height=170&section=header&animation=fadeIn"
+    alt="pink pebble header"
   />
 
-  <br/>
+  <h1>GaHyeon's GitHub</h1>
+  <h3>Backend Developer | AI Service Builder | Server Engineering</h3>
 
   <img
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=D96C96&center=true&vCenter=true&width=720&lines=Building+useful+services+with+Backend+and+AI;Designing+reliable+APIs+and+data+flows;Turning+small+problems+into+real+products"
@@ -127,19 +128,20 @@
     </td>
     <td width="50%" valign="top">
       <h3>AIL-ways</h3>
-      <p><b>AI 기반 스마트 멘토링 시스템</b></p>
+      <p><b>YOLO 기반 스마트 멘토링 시스템</b></p>
       <p>
-        실시간 집중도 분석, 학습 리포트, AI 피드백을 제공하는 멘토링 플랫폼입니다.
+        YOLO를 사용하여 딴짓을 실시간으로 감지하고,<br/>
+        집중도 분석, 학습 리포트 생성, AI 피드백을 제공하는 멘토링 플랫폼입니다.<br/>
         학습 데이터를 기반으로 멘토링 경험을 개선하는 데 초점을 맞췄습니다.
       </p>
       <p>
         <img src="https://img.shields.io/badge/Spring Boot-F48FB1?style=flat-square&logo=springboot&logoColor=white" />
         <img src="https://img.shields.io/badge/FastAPI-BFA2DB?style=flat-square&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/YOLO-111827?style=flat-square" />
         <img src="https://img.shields.io/badge/MongoDB-D96C96?style=flat-square&logo=mongodb&logoColor=white" />
         <img src="https://img.shields.io/badge/Redis-F06292?style=flat-square&logo=redis&logoColor=white" />
         <img src="https://img.shields.io/badge/OpenAI-9F7AEA?style=flat-square&logo=openai&logoColor=white" />
       </p>
-      <br/>
       <a href="https://github.com/gahyeon1022/AIL-ways">Repository</a>
     </td>
   </tr>
