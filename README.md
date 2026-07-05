@@ -2,7 +2,7 @@
 <div align="center">
 
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:FFE1EC,45:F5A9C8,100:C9A7FF&height=230&section=header&text=GaHyeon's%20GitHub&fontSize=54&fontColor=ffffff&fontAlignY=38&desc=Backend%20Developer%20%7C%20AI%20Service%20Builder%20%7C%20Server%20Engineering&descSize=17&descAlignY=58"
+    src="https://capsule-render.vercel.app/api?type=venom&color=0:FFF1F7,35:F8BBD0,70:E6C9FF,100:C9A7FF&height=260&section=header&text=GaHyeon's%20GitHub&fontSize=54&fontColor=ffffff&fontAlignY=42&desc=Backend%20Developer%20%7C%20AI%20Service%20Builder%20%7C%20Server%20Engineering&descSize=17&descAlignY=61&animation=fadeIn"
     alt="GaHyeon's GitHub"
   />
 
@@ -108,9 +108,11 @@
       <p><b>AI 문서 파싱 및 RAG 질의응답 서비스</b></p>
       <p>
         PDF, HWP, 이미지, Excel 문서를 구조화하고 검색 가능한 지식 데이터로 변환하는 캡스톤 프로젝트입니다.
-        문서 처리 파이프라인과 RAG 기반 질의응답 흐름을 중심으로 설계했습니다.
+        문서 처리 파이프라인, RAG 질의응답, 백엔드 API 흐름을 함께 설계했습니다.
       </p>
       <p>
+        <img src="https://img.shields.io/badge/Spring Boot-F48FB1?style=flat-square&logo=springboot&logoColor=white" />
+        <img src="https://img.shields.io/badge/Java-FF8FB3?style=flat-square&logo=openjdk&logoColor=white" />
         <img src="https://img.shields.io/badge/FastAPI-BFA2DB?style=flat-square&logo=fastapi&logoColor=white" />
         <img src="https://img.shields.io/badge/Python-C9A7FF?style=flat-square&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/Redis-F06292?style=flat-square&logo=redis&logoColor=white" />
@@ -118,6 +120,8 @@
         <img src="https://img.shields.io/badge/Docker-111827?style=flat-square&logo=docker&logoColor=white" />
       </p>
       <a href="https://github.com/kookmin-sw/2026-capstone-23">Repository</a>
+      ·
+      <a href="https://github.com/kmu-capstone2026/backend">Backend Repository</a>
       ·
       <a href="https://kookmin-sw.github.io/2026-capstone-23/">Page</a>
     </td>
@@ -152,26 +156,10 @@
         <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
         <img src="https://img.shields.io/badge/Resend-F06292?style=flat-square" />
       </p>
-      <a href="https://github.com/gahyeon1022/fesnote-showcase.git">Repository</a>
+      <a href="https://github.com/gahyeon1022/fesnote-showcase">Repository</a>
       ·
       <a href="https://fesnote.vercel.app">Service</a>
     </td>
-    <td width="50%" valign="top">
-      <h3>Capstone Backend</h3>
-      <p><b>캡스톤 프로젝트 백엔드</b></p>
-      <p>
-        서비스 핵심 API와 서버 로직을 담당하는 백엔드 레포지토리입니다.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/Spring Boot-F48FB1?style=flat-square&logo=springboot&logoColor=white" />
-        <img src="https://img.shields.io/badge/Java-FF8FB3?style=flat-square&logo=openjdk&logoColor=white" />
-        <img src="https://img.shields.io/badge/API-D96C96?style=flat-square" />
-        <img src="https://img.shields.io/badge/Backend-111827?style=flat-square" />
-      </p>
-      <a href="https://github.com/kmu-capstone2026/backend">Repository</a>
-    </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3>Do-um Backend</h3>
       <p><b>Do-um 서비스 백엔드</b></p>
@@ -185,7 +173,11 @@
         <img src="https://img.shields.io/badge/API-D96C96?style=flat-square" />
       </p>
       <a href="https://github.com/Do-um/Backend">Repository</a>
+      ·
+      <a href="https://doum-page.vercel.app/">Service</a>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>2.a.m</h3>
       <p><b>팀 기반 웹 서비스 프로젝트</b></p>
@@ -199,8 +191,6 @@
       </p>
       <a href="https://github.com/gahyeon1022/2.a.m">Repository</a>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3>SWingSpace</h3>
       <p><b>소프트웨어 팀 프로젝트</b></p>
@@ -215,6 +205,8 @@
       </p>
       <a href="https://github.com/seunG-Zzun/SWingSpace">Repository</a>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>Computer Graphics</h3>
       <p><b>컴퓨터 그래픽스 프로젝트</b></p>
@@ -226,6 +218,18 @@
         <img src="https://img.shields.io/badge/Graphics-F06292?style=flat-square" />
       </p>
       <a href="https://github.com/gahyeon1022/computergrap">Repository</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>C Snake Game</h3>
+      <p><b>C 언어 기반 스네이크 게임</b></p>
+      <p>
+        C 언어로 게임 로직, 입력 처리, 상태 관리를 구현한 콘솔 게임 프로젝트입니다.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=111827" />
+        <img src="https://img.shields.io/badge/Game-F06292?style=flat-square" />
+      </p>
+      <a href="https://github.com/kenneth5020/C-snake_game">Repository</a>
     </td>
   </tr>
 </table>
@@ -260,7 +264,7 @@
 <div align="center">
 
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:C9A7FF,55:F5A9C8,100:FFE1EC&height=130&section=footer"
+    src="https://capsule-render.vercel.app/api?type=venom&color=0:C9A7FF,45:F5A9C8,100:FFF1F7&height=150&section=footer&animation=fadeIn"
     alt="footer"
   />
 
