@@ -246,19 +246,3 @@
   <img src="https://ghchart.rshah.org/F5A9C8/gahyeon1022" alt="GitHub Contributions" />
 
   <br/><br/>
-
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=gahyeon1022&show_icons=true&hide_border=true&title_color=D96C96&text_color=5B5563&icon_color=F06292&bg_color=FFF7FB"
-    alt="GitHub Stats"
-    height="165"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gahyeon1022&layout=compact&hide_border=true&title_color=D96C96&text_color=5B5563&bg_color=FFF7FB"
-    alt="Top Languages"
-    height="165"
-  />
-
-</div>
-
-<br/>
-</div>
