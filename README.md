@@ -172,7 +172,7 @@
         <img src="https://img.shields.io/badge/MySQL-F7A8C6?style=flat-square&logo=mysql&logoColor=white" />
         <img src="https://img.shields.io/badge/API-D96C96?style=flat-square" />
       </p>
-      <a href="https://github.com/Do-um/Backend">Repository</a>
+      <a href="https://github.com/gahyeon1022/doweb-showcase.git">Repository</a>
       ·
       <a href="https://doum-page.vercel.app/">Service</a>
     </td>
