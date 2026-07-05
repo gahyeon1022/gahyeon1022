@@ -152,7 +152,7 @@
         <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
         <img src="https://img.shields.io/badge/Resend-F06292?style=flat-square" />
       </p>
-      <a href="https://github.com/gahyeon1022/fesnote">Repository</a>
+      <a href="https://github.com/gahyeon1022/fesnote-showcase.git">Repository</a>
       ·
       <a href="https://fesnote.vercel.app">Service</a>
     </td>
