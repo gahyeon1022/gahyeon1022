@@ -149,6 +149,7 @@
       <h3>FesNote</h3>
       <p><b>공연 기록 캘린더 웹 서비스</b></p>
       <p>
+        1인 프로젝트, 취미 생활과 개발을 잇다. <br/>
         공연 관람 기록을 캘린더와 통계로 관리하고, KOPIS·서울 열린데이터광장·공공데이터포털 기반 공연 검색과 사용자 공유 기록을 지원하는 서비스입니다.
       </p>
       <p>
@@ -164,9 +165,9 @@
     </td>
     <td width="50%" valign="top">
       <h3>Do-um Backend</h3>
-      <p><b>Do-um 서비스 백엔드</b></p>
+      <p><b>DoWeb</b></p>
       <p>
-        팀 프로젝트에서 서버 기능과 API 개발을 중심으로 진행한 백엔드 프로젝트입니다.
+       동아리 웹사이트 제작 프로젝트 입니다.
       </p>
       <p>
         <img src="https://img.shields.io/badge/Spring Boot-F48FB1?style=flat-square&logo=springboot&logoColor=white" />
@@ -182,9 +183,10 @@
   <tr>
     <td width="50%" valign="top">
       <h3>2.a.m</h3>
-      <p><b>팀 기반 웹 서비스 프로젝트</b></p>
+      <p><b>JS 기반 웹 서비스 프로젝트</b></p>
       <p>
-        사용자 흐름과 서비스 기능 구현을 중심으로 진행한 웹 서비스 프로젝트입니다.
+        잠을 못이루는 사람들을 위한 웹 서비스 프로젝트입니다. <br/>
+        자바스크립트 , html, css 기반으로 작성되었습니다. 
       </p>
       <p>
         <img src="https://img.shields.io/badge/Backend-111827?style=flat-square" />
@@ -195,9 +197,10 @@
     </td>
     <td width="50%" valign="top">
       <h3>SWingSpace</h3>
-      <p><b>소프트웨어 팀 프로젝트</b></p>
+      <p><b>동아리방 예약 시스템</b></p>
       <p>
-        팀 협업을 기반으로 서비스 기능과 구조를 설계한 소프트웨어 프로젝트입니다.
+        2인 팀으로 구성되어 진행한 동아리방 예약 프로젝트입니다.
+        로컬 환경에서 진행한 프로젝트입니다.
       </p>
       <p>
         <img src="https://img.shields.io/badge/Backend-111827?style=flat-square" />
