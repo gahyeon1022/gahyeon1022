@@ -167,7 +167,8 @@
       <h3>Do-um Backend</h3>
       <p><b>DoWeb</b></p>
       <p>
-       동아리 웹사이트 제작 프로젝트 입니다.
+        동아리 웹사이트 제작 프로젝트 입니다. <br/>
+        동아리 활동 중 필요한 기능을 한 곳에서 해결할 수 있게 도와줍니다.
       </p>
       <p>
         <img src="https://img.shields.io/badge/Spring Boot-F48FB1?style=flat-square&logo=springboot&logoColor=white" />
@@ -199,7 +200,7 @@
       <h3>SWingSpace</h3>
       <p><b>동아리방 예약 시스템</b></p>
       <p>
-        2인 팀으로 구성되어 진행한 동아리방 예약 프로젝트입니다.
+        2인 팀으로 구성되어 진행한 동아리방 예약 프로젝트입니다.<br/>
         로컬 환경에서 진행한 프로젝트입니다.
       </p>
       <p>
