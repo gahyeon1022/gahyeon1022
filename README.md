@@ -2,7 +2,7 @@
 <div align="center">
 
   <img
-    src="https://capsule-render.vercel.app/api?type=venom&color=0:FFF1F7,35:F8BBD0,70:E6C9FF,100:C9A7FF&height=260&section=header&text=GaHyeon's%20GitHub&fontSize=54&fontColor=ffffff&stroke=F3AFC6&strokeWidth=1&fontAlignY=42&desc=Backend%20Developer%20%7C%20AI%20Service%20Builder%20%7C%20Server%20Engineering&descSize=17&descAlignY=61&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=venom&color=0:FFF1F7,35:F8BBD0,70:E6C9FF,100:C9A7FF&height=260&section=header&text=GaHyeon's%20GitHub&fontSize=54&fontColor=ffffff&stroke=F3AFC6&strokeWidth=1&fontAlignY=42&desc=Backend%20Developer%20%7C%20AI%20Service%20Builder%20%7C%20Server%20Engineering&descSize=17&descAlignY=61&descColor=FFF7FB&descStroke=F3AFC6&descStrokeWidth=1&animation=fadeIn"
     alt="GaHyeon's GitHub"
   />
 
@@ -129,8 +129,7 @@
       <h3>AIL-ways</h3>
       <p><b>AI 기반 스마트 멘토링 시스템</b></p>
       <p>
-        YOLO를 사용하여 딴짓을 실시간으로 감지하고,
-        집중도 분석, 학습 리포트 생성, AI 피드백을 제공하는 멘토링 플랫폼입니다.
+        실시간 집중도 분석, 학습 리포트, AI 피드백을 제공하는 멘토링 플랫폼입니다.
         학습 데이터를 기반으로 멘토링 경험을 개선하는 데 초점을 맞췄습니다.
       </p>
       <p>
@@ -140,6 +139,7 @@
         <img src="https://img.shields.io/badge/Redis-F06292?style=flat-square&logo=redis&logoColor=white" />
         <img src="https://img.shields.io/badge/OpenAI-9F7AEA?style=flat-square&logo=openai&logoColor=white" />
       </p>
+      <br/>
       <a href="https://github.com/gahyeon1022/AIL-ways">Repository</a>
     </td>
   </tr>
@@ -173,7 +173,7 @@
         <img src="https://img.shields.io/badge/MySQL-F7A8C6?style=flat-square&logo=mysql&logoColor=white" />
         <img src="https://img.shields.io/badge/API-D96C96?style=flat-square" />
       </p>
-      <a href="https://github.com/gahyeon1022/doweb-showcase.git">Repository</a>
+      <a href="https://github.com/Do-um/Backend">Repository</a>
       ·
       <a href="https://doum-page.vercel.app/">Service</a>
     </td>
