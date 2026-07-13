@@ -111,8 +111,6 @@
         문서 처리 파이프라인, RAG 질의응답, 백엔드 API 흐름을 함께 설계했습니다.
       </p>
       <p>
-        <img src="https://img.shields.io/badge/Spring Boot-F48FB1?style=flat-square&logo=springboot&logoColor=white" />
-        <img src="https://img.shields.io/badge/Java-FF8FB3?style=flat-square&logo=openjdk&logoColor=white" />
         <img src="https://img.shields.io/badge/FastAPI-BFA2DB?style=flat-square&logo=fastapi&logoColor=white" />
         <img src="https://img.shields.io/badge/Python-C9A7FF?style=flat-square&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/Redis-F06292?style=flat-square&logo=redis&logoColor=white" />
