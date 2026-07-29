@@ -123,6 +123,7 @@
       ·
       <a href="https://kookmin-sw.github.io/2026-capstone-23/">Page</a>
     </td>
+
     <td width="50%" valign="top">
       <h3>AIL-ways</h3>
       <p><b>AI 기반 스마트 멘토링 시스템</b></p>
@@ -142,12 +143,13 @@
       <a href="https://github.com/gahyeon1022/AIL-ways">Repository</a>
     </td>
   </tr>
+
   <tr>
     <td width="50%" valign="top">
       <h3>FesNote</h3>
       <p><b>공연 기록 캘린더 웹 서비스</b></p>
       <p>
-        1인 프로젝트, 취미 생활과 개발을 잇다. <br/>
+        1인 프로젝트, 취미 생활과 개발을 잇다.<br/>
         공연 관람 기록을 캘린더와 통계로 관리하고, KOPIS·서울 열린데이터광장·공공데이터포털 기반 공연 검색과 사용자 공유 기록을 지원하는 서비스입니다.
       </p>
       <p>
@@ -161,13 +163,14 @@
       ·
       <a href="https://fesnote.vercel.app">Service</a>
     </td>
-      <td width="50%" valign="top">
+
+    <td width="50%" valign="top">
       <h3>shareB</h3>
       <p><b>함께 기록하고 나누는 독서 웹 서비스</b></p>
       <p>
         1인 프로젝트, 책을 읽는 과정까지 기록하다.<br/>
         카카오 도서 검색으로 나만의 서재를 만들고, 진도별 독서 기록과 완독 정리를 남기며 친구와 책을 추천하고 나눌 수 있는 서비스입니다.
-        독서 완료 후 한장 정리, 독서 후 실천할 행동과 연간 목표로 독서를 기록합니다.
+        독서 완료 후 한 장 정리, 독서 후 실천할 행동과 연간 목표로 독서를 기록합니다.
       </p>
       <p>
         <img src="https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=nextdotjs&logoColor=white" />
@@ -180,11 +183,14 @@
       ·
       <a href="https://shareb-nine.vercel.app">Service</a>
     </td>
+  </tr>
+
+  <tr>
     <td width="50%" valign="top">
       <h3>Do-um Backend</h3>
       <p><b>DoWeb</b></p>
       <p>
-        동아리 웹사이트 제작 프로젝트 입니다. <br/>
+        동아리 웹사이트 제작 프로젝트입니다.<br/>
         동아리 활동 중 필요한 기능을 한 곳에서 해결할 수 있게 도와줍니다.
       </p>
       <p>
@@ -197,14 +203,13 @@
       ·
       <a href="https://doum-page.vercel.app/">Service</a>
     </td>
-  </tr>
-  <tr>
+
     <td width="50%" valign="top">
       <h3>2.a.m</h3>
       <p><b>JS 기반 웹 서비스 프로젝트</b></p>
       <p>
-        잠을 못이루는 사람들을 위한 웹 서비스 프로젝트입니다. <br/>
-        자바스크립트 , html, css 기반으로 작성되었습니다. 
+        잠을 못 이루는 사람들을 위한 웹 서비스 프로젝트입니다.<br/>
+        JavaScript, HTML, CSS를 기반으로 작성되었습니다.
       </p>
       <p>
         <img src="https://img.shields.io/badge/Backend-111827?style=flat-square" />
@@ -213,6 +218,9 @@
       </p>
       <a href="https://github.com/gahyeon1022/2.a.m">Repository</a>
     </td>
+  </tr>
+
+  <tr>
     <td width="50%" valign="top">
       <h3>SWingSpace</h3>
       <p><b>동아리방 예약 시스템</b></p>
@@ -228,8 +236,7 @@
       </p>
       <a href="https://github.com/seunG-Zzun/SWingSpace">Repository</a>
     </td>
-  </tr>
-  <tr>
+
     <td width="50%" valign="top">
       <h3>Computer Graphics</h3>
       <p><b>컴퓨터 그래픽스 프로젝트</b></p>
@@ -242,6 +249,9 @@
       </p>
       <a href="https://github.com/gahyeon1022/computergrap">Repository</a>
     </td>
+  </tr>
+
+  <tr>
     <td width="50%" valign="top">
       <h3>C Snake Game</h3>
       <p><b>C 언어 기반 스네이크 게임</b></p>
@@ -254,6 +264,8 @@
       </p>
       <a href="https://github.com/kenneth5020/C-snake_game">Repository</a>
     </td>
+
+    <td width="50%" valign="top"></td>
   </tr>
 </table>
 
@@ -267,3 +279,5 @@
   <img src="https://ghchart.rshah.org/F5A9C8/gahyeon1022" alt="GitHub Contributions" />
 
   <br/><br/>
+
+</div>
