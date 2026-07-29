@@ -161,6 +161,25 @@
       ·
       <a href="https://fesnote.vercel.app">Service</a>
     </td>
+      <td width="50%" valign="top">
+      <h3>shareB</h3>
+      <p><b>함께 기록하고 나누는 독서 웹 서비스</b></p>
+      <p>
+        1인 프로젝트, 책을 읽는 과정까지 기록하다.<br/>
+        카카오 도서 검색으로 나만의 서재를 만들고, 진도별 독서 기록과 완독 정리를 남기며 친구와 책을 추천하고 나눌 수 있는 서비스입니다.
+        독서 완료 후 한장 정리, 독서 후 실천할 행동과 연간 목표로 독서를 기록합니다.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-FFB6C1?style=flat-square&logo=react&logoColor=111827" />
+        <img src="https://img.shields.io/badge/TypeScript-C9A7FF?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" />
+        <img src="https://img.shields.io/badge/Kakao-FEE500?style=flat-square&logo=kakao&logoColor=191919" />
+      </p>
+      <a href="https://github.com/gahyeon1022/shareB-showcase">Repository</a>
+      ·
+      <a href="https://shareb-nine.vercel.app">Service</a>
+    </td>
     <td width="50%" valign="top">
       <h3>Do-um Backend</h3>
       <p><b>DoWeb</b></p>
