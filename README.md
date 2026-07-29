@@ -187,7 +187,7 @@
         <img src="https://img.shields.io/badge/Spring Boot-F48FB1?style=flat-square&logo=springboot&logoColor=white" />
         <img src="https://img.shields.io/badge/Java-FF8FB3?style=flat-square&logo=openjdk&logoColor=white" />
         <img src="https://img.shields.io/badge/MySQL-F7A8C6?style=flat-square&logo=mysql&logoColor=white" />
-        <img src="https://img.shields.io/badge/API-D96C96?style=flat-square" />
+        <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" />
         <img src="https://img.shields.io/badge/Google OAuth-4285F4?style=flat-square&logo=google&logoColor=white" />
       </p>
       <a href="https://github.com/gahyeon1022/doweb-showcase.git">Repository</a>
@@ -201,9 +201,9 @@
         JavaScript, HTML, CSS를 기반으로 작성되었습니다.
       </p>
       <p>
-        <img src="https://img.shields.io/badge/Backend-111827?style=flat-square" />
-        <img src="https://img.shields.io/badge/API-D96C96?style=flat-square" />
-        <img src="https://img.shields.io/badge/Team Project-C9A7FF?style=flat-square" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111111" />
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
       </p>
       <a href="https://github.com/gahyeon1022/2.a.m">Repository</a>
     </td>
@@ -217,10 +217,9 @@
         로컬 환경에서 진행한 프로젝트입니다.
       </p>
       <p>
-        <img src="https://img.shields.io/badge/Backend-111827?style=flat-square" />
-        <img src="https://img.shields.io/badge/Server-F48FB1?style=flat-square" />
-        <img src="https://img.shields.io/badge/API-D96C96?style=flat-square" />
-        <img src="https://img.shields.io/badge/Collaboration-C9A7FF?style=flat-square" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111111" />
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
       </p>
       <a href="https://github.com/seunG-Zzun/SWingSpace">Repository</a>
     </td>
