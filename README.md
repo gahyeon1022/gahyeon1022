@@ -2,9 +2,19 @@
 <div align="center">
 
 <img
-  src="https://capsule-render.vercel.app/api?type=venom&color=0:FFF1F7,35:F8BBD0,70:E6C9FF,100:C9A7FF&height=260&section=header&text=GaHyeon's%20GitHub&fontSize=54&fontColor=4F3547&stroke=D96C96&strokeWidth=2&fontAlignY=42&desc=Backend%20Developer%20%7C%20AI%20Service%20Builder%20%7C%20Server%20Engineering&descSize=17&descAlignY=61&animation=fadeIn"
+  src="https://capsule-render.vercel.app/api?type=venom&color=0:FFF1F7,35:F8BBD0,70:E6C9FF,100:C9A7FF&height=260&section=header&text=GaHyeon's%20GitHub&fontSize=54&fontColor=FFF7FB&stroke=D96C96&strokeWidth=2&fontAlignY=46&animation=fadeIn"
   alt="GaHyeon's GitHub"
 />
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=D96C96&center=true&vCenter=true&width=720&lines=Building+useful+services+with+Backend+and+AI;Designing+reliable+APIs+and+data+flows;Turning+small+problems+into+real+products"
+  alt="Typing SVG"
+/>
+
+<p>
+  <sub>
+    <b>Backend Developer · AI Service Builder · Server Engineering</b>
+  </sub>
+</p>
 
   <br/>
 
