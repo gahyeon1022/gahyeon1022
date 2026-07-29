@@ -18,11 +18,6 @@
 
   <br/>
 
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=D96C96&center=true&vCenter=true&width=720&lines=Building+useful+services+with+Backend+and+AI;Designing+reliable+APIs+and+data+flows;Turning+small+problems+into+real+products"
-    alt="Typing SVG"
-  />
-
   <p>
     사회에 필요한 문제를 기술로 풀어내고 싶은 백엔드 개발자입니다.<br/>
     사용자의 불편을 발견하고, 안정적인 서버와 AI 기술로 실제 서비스까지 연결하는 데 관심이 있습니다.
