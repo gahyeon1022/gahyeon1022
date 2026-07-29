@@ -16,8 +16,6 @@
     사회에 필요한 문제를 기술로 풀어내고 싶은 백엔드 개발자입니다.<br/>
     사용자의 불편을 발견하고, 안정적인 서버와 AI 기술로 실제 서비스까지 연결하는 데 관심이 있습니다.
   </p>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F8BBD0,100:C9A7FF&height=3&section=header" width="100%"/>
-<br/>
   <p>
     <a href="https://gahyeon1022.notion.site" target="_blank">
       <img src="https://img.shields.io/badge/Notion-FF8FB3?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
