@@ -6,7 +6,6 @@
   alt="GaHyeon's GitHub"
 />
 
-<br/>
 <img
   src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=D96C96&center=true&vCenter=true&width=720&lines=Building+useful+services+with+Backend+and+AI;Designing+reliable+APIs+and+data+flows;Turning+small+problems+into+real+products"
   alt="Typing SVG"
