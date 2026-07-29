@@ -118,7 +118,6 @@
       <a href="https://github.com/kmu-capstone2026/backend">Backend Repository</a>
       <a href="https://kookmin-sw.github.io/2026-capstone-23/">Page</a>
     </td>
-
     <td width="50%" valign="top">
       <h3>AIL-ways</h3>
       <p><b>AI 기반 스마트 멘토링 시스템</b></p>
