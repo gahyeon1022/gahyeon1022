@@ -1,10 +1,10 @@
 <!-- ================= HEADER ================= -->
 <div align="center">
 
-  <img
-    src="https://capsule-render.vercel.app/api?type=venom&color=0:FFF1F7,35:F8BBD0,70:E6C9FF,100:C9A7FF&height=260&section=header&text=GaHyeon's%20GitHub&fontSize=54&fontColor=ffffff&stroke=F3AFC6&strokeWidth=1&fontAlignY=42&desc=Backend%20Developer%20%7C%20AI%20Service%20Builder%20%7C%20Server%20Engineering&descSize=17&descAlignY=61&descColor=FFF7FB&descStroke=F3AFC6&descStrokeWidth=1&animation=fadeIn"
-    alt="GaHyeon's GitHub"
-  />
+<img
+  src="https://capsule-render.vercel.app/api?type=venom&color=0:FFF1F7,35:F8BBD0,70:E6C9FF,100:C9A7FF&height=260&section=header&text=GaHyeon's%20GitHub&fontSize=54&fontColor=FFF7FB&stroke=D96C96&strokeWidth=2&fontAlignY=42&desc=Backend%20Developer%20%7C%20AI%20Service%20Builder%20%7C%20Server%20Engineering&descSize=17&descAlignY=61&descColor=6F4B62&descStroke=FFF7FB&descStrokeWidth=1&animation=fadeIn"
+  alt="GaHyeon's GitHub"
+/>
 
   <br/>
 
