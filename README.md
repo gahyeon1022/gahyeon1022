@@ -29,11 +29,8 @@
       <img src="https://img.shields.io/badge/Mail-D96C96?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail" />
     </a>
   </p>
-
 </div>
-
 <br/>
-
 <!-- ================= ABOUT ================= -->
 <div align="center">
 
@@ -118,9 +115,7 @@
         <img src="https://img.shields.io/badge/Docker-111827?style=flat-square&logo=docker&logoColor=white" />
       </p>
       <a href="https://github.com/kookmin-sw/2026-capstone-23">Repository</a>
-      ·
       <a href="https://github.com/kmu-capstone2026/backend">Backend Repository</a>
-      ·
       <a href="https://kookmin-sw.github.io/2026-capstone-23/">Page</a>
     </td>
 
@@ -143,7 +138,6 @@
       <a href="https://github.com/gahyeon1022/AIL-ways">Repository</a>
     </td>
   </tr>
-
   <tr>
     <td width="50%" valign="top">
       <h3>FesNote</h3>
@@ -160,10 +154,8 @@
         <img src="https://img.shields.io/badge/Resend-F06292?style=flat-square" />
       </p>
       <a href="https://github.com/gahyeon1022/fesnote-showcase">Repository</a>
-      ·
       <a href="https://fesnote.vercel.app">Service</a>
     </td>
-
     <td width="50%" valign="top">
       <h3>shareB</h3>
       <p><b>함께 기록하고 나누는 독서 웹 서비스</b></p>
@@ -180,11 +172,9 @@
         <img src="https://img.shields.io/badge/Kakao-FEE500?style=flat-square&logo=kakao&logoColor=191919" />
       </p>
       <a href="https://github.com/gahyeon1022/shareB-showcase">Repository</a>
-      ·
       <a href="https://shareb-nine.vercel.app">Service</a>
     </td>
   </tr>
-
   <tr>
     <td width="50%" valign="top">
       <h3>Do-um Backend</h3>
@@ -200,10 +190,8 @@
         <img src="https://img.shields.io/badge/API-D96C96?style=flat-square" />
       </p>
       <a href="https://github.com/gahyeon1022/doweb-showcase.git">Repository</a>
-      ·
       <a href="https://doum-page.vercel.app/">Service</a>
     </td>
-
     <td width="50%" valign="top">
       <h3>2.a.m</h3>
       <p><b>JS 기반 웹 서비스 프로젝트</b></p>
@@ -219,7 +207,6 @@
       <a href="https://github.com/gahyeon1022/2.a.m">Repository</a>
     </td>
   </tr>
-
   <tr>
     <td width="50%" valign="top">
       <h3>SWingSpace</h3>
@@ -236,7 +223,6 @@
       </p>
       <a href="https://github.com/seunG-Zzun/SWingSpace">Repository</a>
     </td>
-
     <td width="50%" valign="top">
       <h3>Computer Graphics</h3>
       <p><b>컴퓨터 그래픽스 프로젝트</b></p>
@@ -250,7 +236,6 @@
       <a href="https://github.com/gahyeon1022/computergrap">Repository</a>
     </td>
   </tr>
-
   <tr>
     <td width="50%" valign="top">
       <h3>C Snake Game</h3>
@@ -264,13 +249,10 @@
       </p>
       <a href="https://github.com/kenneth5020/C-snake_game">Repository</a>
     </td>
-
     <td width="50%" valign="top"></td>
   </tr>
 </table>
-
 <br/>
-
 <!-- ================= CONTRIBUTIONS ================= -->
 <div align="center">
 
