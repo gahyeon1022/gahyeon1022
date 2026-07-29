@@ -133,6 +133,7 @@
         <img src="https://img.shields.io/badge/MongoDB-D96C96?style=flat-square&logo=mongodb&logoColor=white" />
         <img src="https://img.shields.io/badge/Redis-F06292?style=flat-square&logo=redis&logoColor=white" />
         <img src="https://img.shields.io/badge/OpenAI-9F7AEA?style=flat-square&logo=openai&logoColor=white" />
+        <img src="https://img.shields.io/badge/Google OAuth-4285F4?style=flat-square&logo=google&logoColor=white" />
       </p>
       <a href="https://github.com/gahyeon1022/AIL-ways">Repository</a>
     </td>
@@ -187,6 +188,7 @@
         <img src="https://img.shields.io/badge/Java-FF8FB3?style=flat-square&logo=openjdk&logoColor=white" />
         <img src="https://img.shields.io/badge/MySQL-F7A8C6?style=flat-square&logo=mysql&logoColor=white" />
         <img src="https://img.shields.io/badge/API-D96C96?style=flat-square" />
+        <img src="https://img.shields.io/badge/Google OAuth-4285F4?style=flat-square&logo=google&logoColor=white" />
       </p>
       <a href="https://github.com/gahyeon1022/doweb-showcase.git">Repository</a>
       <a href="https://doum-page.vercel.app/">Service</a>
