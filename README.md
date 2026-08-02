@@ -107,14 +107,12 @@
       <h3>LLMong</h3>
       <p><b>AI 문서 파싱 및 RAG 질의응답 서비스</b></p>
       <p>
-        PDF, HWP, 이미지, Excel 문서를 구조화하고 검색 가능한 지식 데이터로 변환하는 캡스톤 프로젝트입니다.
-        문서 처리 파이프라인, RAG 질의응답, 백엔드 API 흐름을 함께 설계했습니다.
+        PDF, HWP, 이미지, Excel 문서를 구조화된 검색 가능 데이터로 변환하는 캡스톤 프로젝트입니다.
       </p>
       <p>
-        🏆 캡스톤디자인 AI/ML 우수상·인기상 (국민대 SW융합대학, 2026.06)<br/>
-        📄 한국통신학회(KICS) 학술대회 논문 2편 공동 투고<br/>
-        ⚡ 병렬 처리로 문서 변환 시간 최대 46.3% 단축<br/>
-        🎯 TEDS(표 구조 유사도) 0.9203 → 0.9818 개선 · RAG Hit 비율 80.0% → 93.3%
+        <img src="https://img.shields.io/badge/AI%2FML_우수상%C2%B7인기상-F8BBD0?style=flat-square" />
+        <img src="https://img.shields.io/badge/KICS_논문_2편-F8BBD0?style=flat-square" />
+        <img src="https://img.shields.io/badge/처리시간_46%25_단축-F8BBD0?style=flat-square" />
       </p>
       <p>
         <img src="https://img.shields.io/badge/FastAPI-BFA2DB?style=flat-square&logo=fastapi&logoColor=white" />
@@ -133,15 +131,12 @@
       <h3>AIL-ways</h3>
       <p><b>AI 기반 스마트 멘토링 시스템</b></p>
       <p>
-        YOLO를 사용하여 딴짓을 실시간으로 감지하고,<br/>
-        집중도 분석, 학습 리포트 생성, AI 피드백을 제공하는 멘토링 플랫폼입니다.<br/>
-        학습 데이터를 기반으로 멘토링 경험을 개선하는 데 초점을 맞췄습니다.
+        YOLO 기반 딴짓 감지와 집중도 분석으로 학습 리포트·AI 피드백을 제공하는 멘토링 플랫폼입니다.
       </p>
       <p>
-        👑 팀장 겸 백엔드 개발자로 참여 · 💻 332회 커밋 관리<br/>
-        🔧 배포 직전 서버 연동 이슈를 팀원들과 체크리스트로 해결, 예정된 일정 내 정상 시연<br/>
-        📋 커밋 컨벤션·PR 리뷰 필수화 제안으로 협업 기준 정립<br/>
-        🎓 배포 이후 실제 동아리원들이 기말고사 시즌 운영·사용
+        <img src="https://img.shields.io/badge/팀장_%C2%B7_332_commits-F8BBD0?style=flat-square" />
+        <img src="https://img.shields.io/badge/정상_시연_완료-F8BBD0?style=flat-square" />
+        <img src="https://img.shields.io/badge/동아리_실사용_중-F8BBD0?style=flat-square" />
       </p>
       <p>
         <img src="https://img.shields.io/badge/Java-FF8FB3?style=flat-square&logo=openjdk&logoColor=white" />
@@ -163,14 +158,12 @@
       <h3>FesNote</h3>
       <p><b>공연 기록 캘린더 웹 서비스</b></p>
       <p>
-        1인 프로젝트, 취미 생활과 개발을 잇다.<br/>
-        공연 관람 기록을 캘린더와 통계로 관리하고, KOPIS·서울 열린데이터광장·공공데이터포털 기반 공연 검색과 사용자 공유 기록을 지원하는 서비스입니다.
+        1인 개발, 공연 관람 기록을 캘린더·통계로 관리하고 공공데이터·사용자 등록 공연을 함께 제공하는 서비스입니다.
       </p>
       <p>
-        👥 실사용자 1,200명+ 확보 · 📈 홍보글 조회수 10만 회+<br/>
-        🗂️ 개인 관람 기록 5,500건+ · 공연 데이터 5,700건+ 축적<br/>
-        🔧 페이지네이션·MongoDB aggregation으로 성능 개선, 50회+ 기능 개선·패치<br/>
-        🔍 정규화 + 가중치 스코어링 기반 중복 공연 자동 감지 로직 설계
+        <img src="https://img.shields.io/badge/실사용자_1%2C200명%2B-F8BBD0?style=flat-square" />
+        <img src="https://img.shields.io/badge/조회수_10만%2B-F8BBD0?style=flat-square" />
+        <img src="https://img.shields.io/badge/패치_50회%2B-F8BBD0?style=flat-square" />
       </p>
       <p>
         <img src="https://img.shields.io/badge/React-FFB6C1?style=flat-square&logo=react&logoColor=111827" />
@@ -187,14 +180,11 @@
       <h3>shareB</h3>
       <p><b>함께 기록하고 나누는 독서 웹 서비스</b></p>
       <p>
-        1인 프로젝트, 책을 읽는 과정까지 기록하다.<br/>
-        카카오 도서 검색으로 나만의 서재를 만들고, 진도별 독서 기록과 완독 정리를 남기며 친구와 책을 추천하고 나눌 수 있는 서비스입니다.
-        독서 완료 후 한 장 정리, 독서 후 실천할 행동과 연간 목표로 독서를 기록합니다.
+        1인 개발, 카카오 도서 검색으로 서재를 만들고 진도별 독서 기록과 친구 추천을 지원하는 서비스입니다.
       </p>
       <p>
-        🔐 Kakao OAuth + 자체 HMAC 서명 쿠키 세션 직접 구현<br/>
-        🛡️ 전 테이블 RLS 적용, 서버 세션 검증 없이는 데이터 접근 차단<br/>
-        📚 6개 테이블(프로필·도서·기록·초대·친구관계·추천) 데이터 모델 설계
+        <img src="https://img.shields.io/badge/자체_인증_%2B_HMAC_세션-F8BBD0?style=flat-square" />
+        <img src="https://img.shields.io/badge/전_테이블_RLS_적용-F8BBD0?style=flat-square" />
       </p>
       <p>
         <img src="https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=nextdotjs&logoColor=white" />
@@ -209,17 +199,14 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>Do-um Backend</h3>
+      <h3>Do-um Website/h3>
       <p><b>DoWeb — 동아리 홈페이지 백엔드</b></p>
       <p>
-        동아리 웹사이트 제작 프로젝트입니다.<br/>
-        동아리 활동 중 필요한 기능을 한 곳에서 해결할 수 있게 도와줍니다.
+        동아리 회비·물품 대여·모집·일정 관리를 한 곳에서 처리하는 동아리 홈페이지 백엔드입니다.
       </p>
       <p>
-        🔑 Google OAuth 기반 도메인 제한 로그인 + 역할별(ADMIN/MEMBER/OUTSIDER) 접근 제어<br/>
-        📦 날짜 범위 기반 예약 가능 수량을 계산하는 물품 대여 로직 설계<br/>
-        🧩 GlobalExceptionHandler·공통 ApiResponse로 예외 처리 표준화<br/>
-        🎓 배포 후 실제 동아리 운영에 사용 중
+        <img src="https://img.shields.io/badge/역할_기반_접근_제어-F8BBD0?style=flat-square" />
+        <img src="https://img.shields.io/badge/동아리_실사용_중-F8BBD0?style=flat-square" />
       </p>
       <p>
         <img src="https://img.shields.io/badge/Java-FF8FB3?style=flat-square&logo=openjdk&logoColor=white" />
@@ -236,12 +223,10 @@
       <h3>SWingSpace</h3>
       <p><b>동아리방 예약 시스템</b></p>
       <p>
-        2인 팀으로 구성되어 진행한 동아리방 예약 프로젝트입니다.<br/>
-        시간 단위 예약, 1회 제한 연장 기능과 예약 위반 누적 시 이용을 제한하는 경고 시스템을 구현했습니다.
+        2인 팀 프로젝트, 시간 단위 예약과 위반 누적 시 이용 제한 기능을 갖춘 동아리방 예약 서비스입니다.
       </p>
       <p>
-        🧑‍🤝‍🧑 2인 팀 · 백엔드 전담 개발<br/>
-        ⚠️ 예약 위반 4회 누적 시 이용 제한 로직 구현
+        <img src="https://img.shields.io/badge/2인_팀_%C2%B7_백엔드_전담-F8BBD0?style=flat-square" />
       </p>
       <p>
         <img src="https://img.shields.io/badge/Node.js-D96C96?style=flat-square&logo=nodedotjs&logoColor=white" />
