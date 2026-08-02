@@ -131,7 +131,7 @@
         <img src="https://img.shields.io/badge/MongoDB-D96C96?style=flat-square&logo=mongodb&logoColor=white" />
         <img src="https://img.shields.io/badge/Redis-F06292?style=flat-square&logo=redis&logoColor=white" />
         <img src="https://img.shields.io/badge/OpenAI-9F7AEA?style=flat-square&logo=openai&logoColor=white" />
-        <img src="https://img.shields.io/badge/Google OAuth-4285F4?style=flat-square&logo=google&logoColor=white" />
+        <img src="https://img.shields.io/badge/Kakao-FEE500?style=flat-square&logo=kakao&logoColor=191919" />
       </p>
       <a href="https://github.com/gahyeon1022/AIL-ways">Repository</a>
     </td>
@@ -184,7 +184,7 @@
       <p>
         <img src="https://img.shields.io/badge/Spring Boot-F48FB1?style=flat-square&logo=springboot&logoColor=white" />
         <img src="https://img.shields.io/badge/Java-FF8FB3?style=flat-square&logo=openjdk&logoColor=white" />
-        <img src="https://img.shields.io/badge/MySQL-F7A8C6?style=flat-square&logo=mysql&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-Database-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
         <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" />
         <img src="https://img.shields.io/badge/Google OAuth-4285F4?style=flat-square&logo=google&logoColor=white" />
       </p>
