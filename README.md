@@ -111,10 +111,10 @@
         문서 처리 파이프라인, RAG 질의응답, 백엔드 API 흐름을 함께 설계했습니다.
       </p>
       <p>
-        캡스톤디자인 AI/ML 우수상·인기상 (국민대 SW융합대학, 2026.06)<br/>
-        한국통신학회(KICS) 학술대회 논문 2편 공동 투고<br/>
-        병렬 처리로 문서 변환 시간 최대 46.3% 단축<br/>
-        TEDS(표 구조 유사도) 0.9203 → 0.9818 개선 · RAG Hit 비율 80.0% → 93.3%
+        🏆 캡스톤디자인 AI/ML 우수상·인기상 (국민대 SW융합대학, 2026.06)<br/>
+        📄 한국통신학회(KICS) 학술대회 논문 2편 공동 투고<br/>
+        ⚡ 병렬 처리로 문서 변환 시간 최대 46.3% 단축<br/>
+        🎯 TEDS(표 구조 유사도) 0.9203 → 0.9818 개선 · RAG Hit 비율 80.0% → 93.3%
       </p>
       <p>
         <img src="https://img.shields.io/badge/FastAPI-BFA2DB?style=flat-square&logo=fastapi&logoColor=white" />
@@ -138,10 +138,10 @@
         학습 데이터를 기반으로 멘토링 경험을 개선하는 데 초점을 맞췄습니다.
       </p>
       <p>
-        팀장 겸 백엔드 개발자로 참여<br/>
-        배포 직전 서버 연동 이슈를 팀원들과 체크리스트로 해결, 예정된 일정 내 정상 시연<br/>
-        커밋 컨벤션·PR 리뷰 필수화 제안으로 협업 기준 정립<br/>
-        배포 이후 실제 동아리원들이 기말고사 시즌 운영·사용
+        👑 팀장 겸 백엔드 개발자로 참여 · 💻 332회 커밋 관리<br/>
+        🔧 배포 직전 서버 연동 이슈를 팀원들과 체크리스트로 해결, 예정된 일정 내 정상 시연<br/>
+        📋 커밋 컨벤션·PR 리뷰 필수화 제안으로 협업 기준 정립<br/>
+        🎓 배포 이후 실제 동아리원들이 기말고사 시즌 운영·사용
       </p>
       <p>
         <img src="https://img.shields.io/badge/Java-FF8FB3?style=flat-square&logo=openjdk&logoColor=white" />
@@ -167,10 +167,10 @@
         공연 관람 기록을 캘린더와 통계로 관리하고, KOPIS·서울 열린데이터광장·공공데이터포털 기반 공연 검색과 사용자 공유 기록을 지원하는 서비스입니다.
       </p>
       <p>
-        실사용자 1,200명+ 확보 · 홍보글 조회수 10만 회+<br/>
-        개인 관람 기록 5,500건+ · 공연 데이터 5,700건+ 축적<br/>
-        페이지네이션·MongoDB aggregation으로 성능 개선, 50회+ 기능 개선·패치<br/>
-        정규화 + 가중치 스코어링 기반 중복 공연 자동 감지 로직 설계
+        👥 실사용자 1,200명+ 확보 · 📈 홍보글 조회수 10만 회+<br/>
+        🗂️ 개인 관람 기록 5,500건+ · 공연 데이터 5,700건+ 축적<br/>
+        🔧 페이지네이션·MongoDB aggregation으로 성능 개선, 50회+ 기능 개선·패치<br/>
+        🔍 정규화 + 가중치 스코어링 기반 중복 공연 자동 감지 로직 설계
       </p>
       <p>
         <img src="https://img.shields.io/badge/React-FFB6C1?style=flat-square&logo=react&logoColor=111827" />
@@ -192,9 +192,9 @@
         독서 완료 후 한 장 정리, 독서 후 실천할 행동과 연간 목표로 독서를 기록합니다.
       </p>
       <p>
-        Kakao OAuth + 자체 HMAC 서명 쿠키 세션 직접 구현<br/>
-        전 테이블 RLS 적용, 서버 세션 검증 없이는 데이터 접근 차단<br/>
-        6개 테이블(프로필·도서·기록·초대·친구관계·추천) 데이터 모델 설계
+        🔐 Kakao OAuth + 자체 HMAC 서명 쿠키 세션 직접 구현<br/>
+        🛡️ 전 테이블 RLS 적용, 서버 세션 검증 없이는 데이터 접근 차단<br/>
+        📚 6개 테이블(프로필·도서·기록·초대·친구관계·추천) 데이터 모델 설계
       </p>
       <p>
         <img src="https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=nextdotjs&logoColor=white" />
@@ -209,17 +209,17 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>Do-um Website</h3>
+      <h3>Do-um Backend</h3>
       <p><b>DoWeb — 동아리 홈페이지 백엔드</b></p>
       <p>
         동아리 웹사이트 제작 프로젝트입니다.<br/>
         동아리 활동 중 필요한 기능을 한 곳에서 해결할 수 있게 도와줍니다.
       </p>
       <p>
-        Google OAuth 기반 도메인 제한 로그인 + 역할별(ADMIN/MEMBER/OUTSIDER) 접근 제어<br/>
-        날짜 범위 기반 예약 가능 수량을 계산하는 물품 대여 로직 설계<br/>
-        GlobalExceptionHandler·공통 ApiResponse로 예외 처리 표준화<br/>
-        배포 후 실제 동아리 운영에 사용 중
+        🔑 Google OAuth 기반 도메인 제한 로그인 + 역할별(ADMIN/MEMBER/OUTSIDER) 접근 제어<br/>
+        📦 날짜 범위 기반 예약 가능 수량을 계산하는 물품 대여 로직 설계<br/>
+        🧩 GlobalExceptionHandler·공통 ApiResponse로 예외 처리 표준화<br/>
+        🎓 배포 후 실제 동아리 운영에 사용 중
       </p>
       <p>
         <img src="https://img.shields.io/badge/Java-FF8FB3?style=flat-square&logo=openjdk&logoColor=white" />
@@ -241,7 +241,7 @@
       </p>
       <p>
         🧑‍🤝‍🧑 2인 팀 · 백엔드 전담 개발<br/>
-        예약 위반 4회 누적 시 이용 제한 로직 구현
+        ⚠️ 예약 위반 4회 누적 시 이용 제한 로직 구현
       </p>
       <p>
         <img src="https://img.shields.io/badge/Node.js-D96C96?style=flat-square&logo=nodedotjs&logoColor=white" />
