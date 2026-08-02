@@ -184,7 +184,7 @@
       <p>
         <img src="https://img.shields.io/badge/Spring Boot-F48FB1?style=flat-square&logo=springboot&logoColor=white" />
         <img src="https://img.shields.io/badge/Java-FF8FB3?style=flat-square&logo=openjdk&logoColor=white" />
-        <img src="https://img.shields.io/badge/PostgreSQL-Database-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL">
         <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" />
         <img src="https://img.shields.io/badge/Google OAuth-4285F4?style=flat-square&logo=google&logoColor=white" />
       </p>
