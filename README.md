@@ -141,7 +141,6 @@
         <img src="https://img.shields.io/badge/배포_트러블슈팅_해결-FCE4EC?style=flat-square" />
         <img src="https://img.shields.io/badge/정상_시연_완료-FCE4EC?style=flat-square" />
         <img src="https://img.shields.io/badge/협업_기준_정립-FCE4EC?style=flat-square" />
-        <img src="https://img.shields.io/badge/동아리_실사용_중-FCE4EC?style=flat-square" />
       </p>
       <p>
         <img src="https://img.shields.io/badge/Java-FF8FB3?style=flat-square&logo=openjdk&logoColor=white" />
