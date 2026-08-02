@@ -234,21 +234,6 @@
       <a href="https://github.com/gahyeon1022/computergrap">Repository</a>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>C Snake Game</h3>
-      <p><b>C 언어 기반 스네이크 게임</b></p>
-      <p>
-        C 언어로 게임 로직, 입력 처리, 상태 관리를 구현한 콘솔 게임 프로젝트입니다.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=111827" />
-        <img src="https://img.shields.io/badge/Game-F06292?style=flat-square" />
-      </p>
-      <a href="https://github.com/kenneth5020/C-snake_game">Repository</a>
-    </td>
-    <td width="50%" valign="top"></td>
-  </tr>
 </table>
 <br/>
 <!-- ================= CONTRIBUTIONS ================= -->
