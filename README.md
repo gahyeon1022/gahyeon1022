@@ -113,7 +113,6 @@
         <img src="https://img.shields.io/badge/Docker-111827?style=flat-square&logo=docker&logoColor=white" />
       </p>
       <a href="https://github.com/kookmin-sw/2026-capstone-23">Repository</a>
-      <a href="https://github.com/kmu-capstone2026/backend">Backend Repository</a>
       <a href="https://kookmin-sw.github.io/2026-capstone-23/">Page</a>
     </td>
     <td width="50%" valign="top">
