@@ -90,14 +90,13 @@ Featured Projects
 PDF, HWP, 이미지, Excel 문서를 구조화된 검색 가능 데이터로 변환하는 캡스톤 프로젝트입니다.
 </p>
 <p>
-<b>성과</b>
+<img src="https://img.shields.io/badge/AI_부문_우수상·인기상-FCE4EC?style=flat-square" />
+<img src="https://img.shields.io/badge/KICS_논문_2편-FCE4EC?style=flat-square" />
+<img src="https://img.shields.io/badge/처리시간_46.3%25↓-FCE4EC?style=flat-square" />
+<img src="https://img.shields.io/badge/TEDS_0.92→0.98-FCE4EC?style=flat-square" />
+<img src="https://img.shields.io/badge/RAG_Hit_80%25→93.3%25-FCE4EC?style=flat-square" />
+<img src="https://img.shields.io/badge/답변정확도_56.7%25→76.7%25-FCE4EC?style=flat-square" />
 </p>
-<ul>
-<li>AI 부문 우수상 · 인기상 (2026 캡스톤디자인, 국민대 소프트웨어융합대학)</li>
-<li>한국통신학회(KICS) 학술대회 논문 2편 공동 투고</li>
-<li>병렬 처리 도입으로 문서 변환 시간 최대 46.3% 단축</li>
-<li>TEDS(표 구조 유사도) 0.9203 → 0.9818, RAG 질의응답 Hit 비율 80.0% → 93.3%, 답변 정확도 56.7% → 76.7%</li>
-</ul>
 <p>
 <img src="https://img.shields.io/badge/FastAPI-BFA2DB?style=flat-square&logo=fastapi&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-C9A7FF?style=flat-square&logo=python&logoColor=white" />
@@ -118,14 +117,12 @@ PDF, HWP, 이미지, Excel 문서를 구조화된 검색 가능 데이터로 변
 YOLO 기반 딴짓 감지와 집중도 분석으로 학습 리포트·AI 피드백을 제공하는 멘토링 플랫폼입니다.
 </p>
 <p>
-<b>성과</b>
+<img src="https://img.shields.io/badge/팀장_·_332_commits-FCE4EC?style=flat-square" />
+<img src="https://img.shields.io/badge/배포_트러블슈팅_해결-FCE4EC?style=flat-square" />
+<img src="https://img.shields.io/badge/정상_시연_완료-FCE4EC?style=flat-square" />
+<img src="https://img.shields.io/badge/협업_기준_정립-FCE4EC?style=flat-square" />
+<img src="https://img.shields.io/badge/동아리_실사용_중-FCE4EC?style=flat-square" />
 </p>
-<ul>
-<li>팀장 겸 백엔드 개발자로 참여, 332회 커밋 관리</li>
-<li>발표 직전 서버 연동 이슈를 팀원들과 체크리스트로 해결, 예정된 일정 내 정상 시연 완료</li>
-<li>커밋 컨벤션·PR 리뷰 필수화 제안으로 협업 기준 정립</li>
-<li>배포 이후 실제 동아리원들이 기말고사 시즌 동안 운영·사용</li>
-</ul>
 <p>
 <img src="https://img.shields.io/badge/Java-FF8FB3?style=flat-square&logo=openjdk&logoColor=white" />
 <img src="https://img.shields.io/badge/Spring Boot-F48FB1?style=flat-square&logo=springboot&logoColor=white" />
@@ -149,14 +146,13 @@ YOLO 기반 딴짓 감지와 집중도 분석으로 학습 리포트·AI 피드�
 1인 개발, 공연 관람 기록을 캘린더·통계로 관리하고 공공데이터·사용자 등록 공연을 함께 제공하는 서비스입니다.
 </p>
 <p>
-<b>성과</b>
+<img src="https://img.shields.io/badge/실사용자_1%2C200명%2B-FCE4EC?style=flat-square" />
+<img src="https://img.shields.io/badge/조회수_10만%2B-FCE4EC?style=flat-square" />
+<img src="https://img.shields.io/badge/관람기록_5%2C500건%2B-FCE4EC?style=flat-square" />
+<img src="https://img.shields.io/badge/공연데이터_5%2C700건%2B-FCE4EC?style=flat-square" />
+<img src="https://img.shields.io/badge/패치_50회%2B-FCE4EC?style=flat-square" />
+<img src="https://img.shields.io/badge/중복_감지_로직_설계-FCE4EC?style=flat-square" />
 </p>
-<ul>
-<li>실사용자 1,200명+ 확보, 홍보글 조회수 10만 회+</li>
-<li>개인 관람 기록 5,500건+, 공연 데이터 5,700건+ 축적</li>
-<li>페이지네이션·MongoDB aggregation 기반 캐싱으로 응답 속도 개선</li>
-<li>정규화 + 가중치 스코어링 기반 중복 공연 자동 감지 로직 설계, 50회+ 기능 개선·패치</li>
-</ul>
 <p>
 <img src="https://img.shields.io/badge/React-FFB6C1?style=flat-square&logo=react&logoColor=111827" />
 <img src="https://img.shields.io/badge/Node.js-D96C96?style=flat-square&logo=nodedotjs&logoColor=white" />
@@ -175,13 +171,10 @@ YOLO 기반 딴짓 감지와 집중도 분석으로 학습 리포트·AI 피드�
 1인 개발, 카카오 도서 검색으로 서재를 만들고 진도별 독서 기록과 친구 추천을 지원하는 서비스입니다.
 </p>
 <p>
-<b>성과</b>
+<img src="https://img.shields.io/badge/Kakao_OAuth_%2B_HMAC_세션-FCE4EC?style=flat-square" />
+<img src="https://img.shields.io/badge/전_테이블_RLS_적용-FCE4EC?style=flat-square" />
+<img src="https://img.shields.io/badge/테이블_6개_설계-FCE4EC?style=flat-square" />
 </p>
-<ul>
-<li>Kakao OAuth + 자체 HMAC 서명 쿠키 세션 직접 구현</li>
-<li>전 테이블 RLS 적용, 서버 세션 검증 없이는 데이터 접근 차단</li>
-<li>프로필·도서·기록·초대·친구관계·추천 6개 테이블 데이터 모델 설계</li>
-</ul>
 <p>
 <img src="https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=nextdotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/React-FFB6C1?style=flat-square&logo=react&logoColor=111827" />
@@ -201,14 +194,11 @@ YOLO 기반 딴짓 감지와 집중도 분석으로 학습 리포트·AI 피드�
 동아리 회비·물품 대여·모집·일정 관리를 한 곳에서 처리하는 동아리 홈페이지 백엔드입니다.
 </p>
 <p>
-<b>성과</b>
+<img src="https://img.shields.io/badge/역할_기반_접근_제어-FCE4EC?style=flat-square" />
+<img src="https://img.shields.io/badge/예약_가능_수량_계산_로직-FCE4EC?style=flat-square" />
+<img src="https://img.shields.io/badge/예외처리_표준화-FCE4EC?style=flat-square" />
+<img src="https://img.shields.io/badge/동아리_실사용_중-FCE4EC?style=flat-square" />
 </p>
-<ul>
-<li>Google OAuth 기반 도메인 제한 로그인 + 역할별(ADMIN/MEMBER/OUTSIDER) 접근 제어</li>
-<li>날짜 범위 기반 예약 가능 수량을 계산하는 물품 대여 로직 설계</li>
-<li>GlobalExceptionHandler·공통 ApiResponse로 예외 처리 표준화</li>
-<li>배포 후 실제 동아리 운영에 사용 중</li>
-</ul>
 <p>
 <img src="https://img.shields.io/badge/Java-FF8FB3?style=flat-square&logo=openjdk&logoColor=white" />
 <img src="https://img.shields.io/badge/Spring Boot-F48FB1?style=flat-square&logo=springboot&logoColor=white" />
@@ -227,12 +217,9 @@ YOLO 기반 딴짓 감지와 집중도 분석으로 학습 리포트·AI 피드�
 2인 팀 프로젝트, 시간 단위 예약과 위반 누적 시 이용 제한 기능을 갖춘 동아리방 예약 서비스입니다.
 </p>
 <p>
-<b>성과</b>
+<img src="https://img.shields.io/badge/2인_팀_·_백엔드_전담-FCE4EC?style=flat-square" />
+<img src="https://img.shields.io/badge/위반_4회_누적_제한_로직-FCE4EC?style=flat-square" />
 </p>
-<ul>
-<li>2인 팀 백엔드 전담 개발</li>
-<li>예약 위반 4회 누적 시 이용 제한 로직 구현</li>
-</ul>
 <p>
 <img src="https://img.shields.io/badge/Node.js-D96C96?style=flat-square&logo=nodedotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Express-111827?style=flat-square&logo=express&logoColor=white" />
