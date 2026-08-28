@@ -127,8 +127,6 @@
       </p>
       <p>
         <img src="https://img.shields.io/badge/팀장_%C2%B7_332_commits-FCE4EC?style=flat-square" />
-        <img src="https://img.shields.io/badge/배포_트러블슈팅_해결-FCE4EC?style=flat-square" />
-        <img src="https://img.shields.io/badge/정상_시연_완료-FCE4EC?style=flat-square" />
         <img src="https://img.shields.io/badge/협업_기준_정립-FCE4EC?style=flat-square" />
       </p>
       <p>
@@ -158,7 +156,6 @@
         <img src="https://img.shields.io/badge/조회수_10만%2B-FCE4EC?style=flat-square" />
         <img src="https://img.shields.io/badge/관람기록_5%2C500건%2B-FCE4EC?style=flat-square" />
         <img src="https://img.shields.io/badge/공연데이터_5%2C700건%2B-FCE4EC?style=flat-square" />
-        <img src="https://img.shields.io/badge/패치_50회%2B-FCE4EC?style=flat-square" />
         <img src="https://img.shields.io/badge/중복_감지_로직_설계-FCE4EC?style=flat-square" />
       </p>
       <p>
@@ -181,7 +178,6 @@
       <p>
         <img src="https://img.shields.io/badge/Kakao_OAuth_%2B_HMAC_세션-FCE4EC?style=flat-square" />
         <img src="https://img.shields.io/badge/전_테이블_RLS_적용-FCE4EC?style=flat-square" />
-        <img src="https://img.shields.io/badge/테이블_6개_설계-FCE4EC?style=flat-square" />
       </p>
       <p>
         <img src="https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=nextdotjs&logoColor=white" />
