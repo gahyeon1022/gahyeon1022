@@ -61,6 +61,7 @@
   <tr>
     <td align="center">
       <b>NICE Investing</b> · 서비스 기획실 인턴<br/>
+      <sub>기간 및 담당 업무 — 내용 채워주세요</sub>
     </td>
   </tr>
 </table>
