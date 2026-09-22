@@ -52,6 +52,24 @@
 
 <br/>
 
+<!-- ================= EXPERIENCE ================= -->
+<div align="center">
+
+## Experience
+
+<table>
+  <tr>
+    <td align="center">
+      <b>NICE Investing</b> · 서비스 기획실 인턴<br/>
+      <sub>기간 및 담당 업무 — 내용 채워주세요</sub>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<br/>
+
 <!-- ================= TECH STACK ================= -->
 <div align="center">
 
@@ -103,17 +121,7 @@
     <td width="50%" valign="top">
       <h3>LLMong</h3>
       <p><b>AI 문서 파싱 및 RAG 질의응답 서비스</b></p>
-      <p>
-        PDF, HWP, 이미지, Excel 문서를 구조화된 검색 가능 데이터로 변환하는 캡스톤 프로젝트입니다.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/AI_부문_우수상%C2%B7인기상-FCE4EC?style=flat-square" />
-        <img src="https://img.shields.io/badge/KICS_논문_2편-FCE4EC?style=flat-square" />
-        <img src="https://img.shields.io/badge/처리시간_46.3%25%E2%86%93-FCE4EC?style=flat-square" />
-        <img src="https://img.shields.io/badge/TEDS_0.92%E2%86%920.98-FCE4EC?style=flat-square" />
-        <img src="https://img.shields.io/badge/RAG_Hit_80%25%E2%86%9293.3%25-FCE4EC?style=flat-square" />
-        <img src="https://img.shields.io/badge/답변정확도_56.7%25%E2%86%9276.7%25-FCE4EC?style=flat-square" />
-      </p>
+      <p>PDF·HWP·이미지·Excel 문서를 검색 가능한 데이터로 변환하고 질의응답까지 제공합니다.</p>
       <p>
         <img src="https://img.shields.io/badge/FastAPI-BFA2DB?style=flat-square&logo=fastapi&logoColor=white" />
         <img src="https://img.shields.io/badge/Python-C9A7FF?style=flat-square&logo=python&logoColor=white" />
@@ -130,13 +138,7 @@
     <td width="50%" valign="top">
       <h3>AIL-ways</h3>
       <p><b>AI 기반 스마트 멘토링 시스템</b></p>
-      <p>
-        YOLO 기반 딴짓 감지와 집중도 분석으로 학습 리포트·AI 피드백을 제공하는 멘토링 플랫폼입니다.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/팀장_%C2%B7_332_commits-FCE4EC?style=flat-square" />
-        <img src="https://img.shields.io/badge/협업_기준_정립-FCE4EC?style=flat-square" />
-      </p>
+      <p>학습 중 집중도를 분석해 리포트와 AI 피드백을 제공하는 멘토링 플랫폼입니다.</p>
       <p>
         <img src="https://img.shields.io/badge/Java-FF8FB3?style=flat-square&logo=openjdk&logoColor=white" />
         <img src="https://img.shields.io/badge/Spring Boot-F48FB1?style=flat-square&logo=springboot&logoColor=white" />
@@ -156,16 +158,7 @@
     <td width="50%" valign="top">
       <h3>FesNote</h3>
       <p><b>공연 기록 캘린더 웹 서비스</b></p>
-      <p>
-        1인 개발, 공연 관람 기록을 캘린더·통계로 관리하고 공공데이터·사용자 등록 공연을 함께 제공하는 서비스입니다.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/실사용자_1%2C200명%2B-FCE4EC?style=flat-square" />
-        <img src="https://img.shields.io/badge/조회수_10만%2B-FCE4EC?style=flat-square" />
-        <img src="https://img.shields.io/badge/관람기록_5%2C500건%2B-FCE4EC?style=flat-square" />
-        <img src="https://img.shields.io/badge/공연데이터_5%2C700건%2B-FCE4EC?style=flat-square" />
-        <img src="https://img.shields.io/badge/중복_감지_로직_설계-FCE4EC?style=flat-square" />
-      </p>
+      <p>관람한 공연을 캘린더와 통계로 기록하고 관리하는 1인 개발 서비스입니다.</p>
       <p>
         <img src="https://img.shields.io/badge/React-FFB6C1?style=flat-square&logo=react&logoColor=111827" />
         <img src="https://img.shields.io/badge/Node.js-D96C96?style=flat-square&logo=nodedotjs&logoColor=white" />
@@ -180,13 +173,7 @@
     <td width="50%" valign="top">
       <h3>shareB</h3>
       <p><b>함께 기록하고 나누는 독서 웹 서비스</b></p>
-      <p>
-        1인 개발, 카카오 도서 검색으로 서재를 만들고 진도별 독서 기록과 친구 추천을 지원하는 서비스입니다.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/Kakao_OAuth_%2B_HMAC_세션-FCE4EC?style=flat-square" />
-        <img src="https://img.shields.io/badge/전_테이블_RLS_적용-FCE4EC?style=flat-square" />
-      </p>
+      <p>도서 검색으로 서재를 만들고 독서 기록을 친구와 나누는 1인 개발 서비스입니다.</p>
       <p>
         <img src="https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=nextdotjs&logoColor=white" />
         <img src="https://img.shields.io/badge/React-FFB6C1?style=flat-square&logo=react&logoColor=111827" />
@@ -202,15 +189,7 @@
     <td width="50%" valign="top">
       <h3>Do-um Backend</h3>
       <p><b>DoWeb — 동아리 홈페이지 백엔드</b></p>
-      <p>
-        동아리 회비·물품 대여·모집·일정 관리를 한 곳에서 처리하는 동아리 홈페이지 백엔드입니다.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/역할_기반_접근_제어-FCE4EC?style=flat-square" />
-        <img src="https://img.shields.io/badge/예약_가능_수량_계산_로직-FCE4EC?style=flat-square" />
-        <img src="https://img.shields.io/badge/예외처리_표준화-FCE4EC?style=flat-square" />
-        <img src="https://img.shields.io/badge/동아리_실사용_중-FCE4EC?style=flat-square" />
-      </p>
+      <p>동아리 회비·물품 대여·모집·일정을 한 곳에서 관리하는 백엔드입니다.</p>
       <p>
         <img src="https://img.shields.io/badge/Java-FF8FB3?style=flat-square&logo=openjdk&logoColor=white" />
         <img src="https://img.shields.io/badge/Spring Boot-F48FB1?style=flat-square&logo=springboot&logoColor=white" />
@@ -225,13 +204,7 @@
     <td width="50%" valign="top">
       <h3>SWingSpace</h3>
       <p><b>동아리방 예약 시스템</b></p>
-      <p>
-        2인 팀 프로젝트, 시간 단위 예약과 위반 누적 시 이용 제한 기능을 갖춘 동아리방 예약 서비스입니다.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/2인_팀_%C2%B7_백엔드_전담-FCE4EC?style=flat-square" />
-        <img src="https://img.shields.io/badge/위반_4회_누적_제한_로직-FCE4EC?style=flat-square" />
-      </p>
+      <p>시간 단위 예약과 이용 제한 정책을 갖춘 동아리방 예약 서비스입니다.</p>
       <p>
         <img src="https://img.shields.io/badge/Node.js-D96C96?style=flat-square&logo=nodedotjs&logoColor=white" />
         <img src="https://img.shields.io/badge/Express-111827?style=flat-square&logo=express&logoColor=white" />
@@ -243,7 +216,31 @@
     </td>
   </tr>
 </table>
+
 <br/>
+
+<!-- ================= CERTIFICATIONS ================= -->
+<div align="center">
+
+## Certifications & Language
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <b>Certifications</b><br/>
+      정보처리기사 · ADsP · SQLD
+    </td>
+    <td align="center" width="50%">
+      <b>Language</b><br/>
+      OPIc IH
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<br/>
+
 <!-- ================= CONTRIBUTIONS ================= -->
 <div align="center">
 
