@@ -49,12 +49,9 @@
 **Backend & AI**<br/>
 <img src="https://img.shields.io/badge/Java-FF8FB3?style=flat-square&logo=openjdk&logoColor=white" />
 <img src="https://img.shields.io/badge/Spring Boot-F48FB1?style=flat-square&logo=springboot&logoColor=white" />
-<img src="https://img.shields.io/badge/Spring Security-F48FB1?style=flat-square&logo=springsecurity&logoColor=white" />
 <img src="https://img.shields.io/badge/Node.js-D96C96?style=flat-square&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Express-111827?style=flat-square&logo=express&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-C9A7FF?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/FastAPI-BFA2DB?style=flat-square&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/JWT-D96C96?style=flat-square&logo=jsonwebtokens&logoColor=white" />
 <img src="https://img.shields.io/badge/OpenAI-9F7AEA?style=flat-square&logo=openai&logoColor=white" />
 
 **Data & Infra**<br/>
@@ -70,19 +67,16 @@
 **Frontend & Tools**<br/>
 <img src="https://img.shields.io/badge/React-FFB6C1?style=flat-square&logo=react&logoColor=111827" />
 <img src="https://img.shields.io/badge/TypeScript-C9A7FF?style=flat-square&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=111827" />
-<img src="https://img.shields.io/badge/C++-A78BFA?style=flat-square&logo=cplusplus&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F06292?style=flat-square&logo=git&logoColor=white" />
 
 ## 🚀 Projects
 
 | 프로젝트 | 설명 | 주요 성과 | Stack | Link |
 |:--|:--|:--|:--|:--|
-| **LLMong** | AI 문서 파싱 · RAG 질의응답 (캡스톤) | AI 부문 우수상·인기상, KICS 논문 2편 | FastAPI, Redis, RabbitMQ, Qwen VLM | [Repo](https://github.com/kookmin-sw/2026-capstone-23) · [Page](https://kookmin-sw.github.io/2026-capstone-23/) |
+| **LLMong** | AI 문서 파싱 · RAG 질의응답 | 캡스톤 AI 부문 우수상·인기상, KICS 논문 2편 | FastAPI, Redis, RabbitMQ, Qwen VLM | [Repo](https://github.com/kookmin-sw/2026-capstone-23) · [Page](https://kookmin-sw.github.io/2026-capstone-23/) |
 | **AIL-ways** | AI 기반 스마트 멘토링 시스템 | 팀장 | Spring Boot, FastAPI, YOLO, MongoDB | [Repo](https://github.com/gahyeon1022/AIL-ways) |
-| **FesNote** | 공연 기록 캘린더 웹 서비스 (1인) | 실사용자 1,200명+, 조회수 10만+ | Node.js, Express, MongoDB, React | [Repo](https://github.com/gahyeon1022/fesnote-showcase) · [Service](https://fesnote.vercel.app) |
-| **Do-um** | 동아리 홈페이지 백엔드 | 동아리 실사용 중, 역할 기반 접근 제어 | Spring Boot, PostgreSQL, Flyway | [Repo](https://github.com/gahyeon1022/doweb-showcase) · [Service](https://doum-page.vercel.app/) |
-| **SWingSpace** | 동아리방 예약 시스템 (2인, 백엔드) | 위반 누적 이용 제한 로직 | Node.js, Express, MongoDB | [Repo](https://github.com/seunG-Zzun/SWingSpace) · [Service](https://swing-space-phi.vercel.app/) |
+| **FesNote** | 공연 기록 캘린더 웹 서비스 | 실사용자 1,200명+, 조회수 10만+ | Node.js, Express, MongoDB, React | [Repo](https://github.com/gahyeon1022/fesnote-showcase) · [Service](https://fesnote.vercel.app) |
+| **Do-web** | 동아리 홈페이지 백엔드 | 동아리 실사용 중 | Spring Boot, PostgreSQL, Flyway | [Repo](https://github.com/gahyeon1022/doweb-showcase) · [Service](https://doum-page.vercel.app/) |
 
 </div>
 
