@@ -34,8 +34,8 @@
 
 | 기간 | 회사 | 
 |:--|:--|
-| 2026.09 – 현재 | [**LG AI연구원**](https://www.lgresearch.ai/) |
-| 2026.08 – 2026.09 | [**나이스 인베스팅**](https://www.niceinvesting.com/) |
+| 2026.09 – 현재 |**LG AI연구원**|
+| 2026.08 – 2026.09 |**나이스 인베스팅**|
 
 ## 📜 Certifications & Language
 
