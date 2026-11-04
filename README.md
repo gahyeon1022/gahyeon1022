@@ -23,8 +23,14 @@
 
 | 기간 | 회사 | 하는 일 |
 |:--|:--|:--|
-| 2026.09 – 현재 | **LG AI연구원** (인턴) | AI 서비스 백엔드 · 서비스 간 internal API 설계·구현 (Python, FastAPI, PostgreSQL) |
-| 2026.08 – 2026.09 | **나이스 인베스팅** | |
+| 2026.09 – 현재 | **LG AI연구원** |
+| 2026.08 – 2026.09 | **나이스 인베스팅** |
+
+## 📜 Awards & Papers
+
+| 수상 | Capstone Design (AI Track) 우수상 · 인기상 |
+| 논문 | 2 papers presented at KICS Conference |
+
 
 ## 📜 Certifications & Language
 
@@ -95,10 +101,6 @@
       <h3>FesNote</h3>
       <p><b>공연 기록 캘린더 웹 서비스</b></p>
       <p>
-        실사용자 <b>1,200명+</b><br/>
-        조회수 <b>10만+</b>
-      </p>
-      <p>
         <img src="https://img.shields.io/badge/Node.js-D96C96?style=flat-square&logo=nodedotjs&logoColor=white" />
         <img src="https://img.shields.io/badge/Express-BFA2DB?style=flat-square&logo=express&logoColor=white" />
         <img src="https://img.shields.io/badge/MongoDB-D96C96?style=flat-square&logo=mongodb&logoColor=white" />
@@ -113,9 +115,6 @@
       <h3>AIL-ways</h3>
       <p><b>AI 기반 스마트 멘토링 시스템</b></p>
       <p>
-        <b>팀장</b>
-      </p>
-      <p>
         <img src="https://img.shields.io/badge/Spring%20Boot-F48FB1?style=flat-square&logo=springboot&logoColor=white" />
         <img src="https://img.shields.io/badge/FastAPI-BFA2DB?style=flat-square&logo=fastapi&logoColor=white" />
         <img src="https://img.shields.io/badge/YOLO-F59EBC?style=flat-square" />
@@ -126,9 +125,6 @@
     <td width="50%" valign="top">
       <h3>Do-web</h3>
       <p><b>동아리 홈페이지 백엔드</b></p>
-      <p>
-        동아리 <b>실사용 중</b>
-      </p>
       <p>
         <img src="https://img.shields.io/badge/Spring%20Boot-F48FB1?style=flat-square&logo=springboot&logoColor=white" />
         <img src="https://img.shields.io/badge/PostgreSQL-C9A7FF?style=flat-square&logo=postgresql&logoColor=white" />
