@@ -11,11 +11,7 @@
   alt="Typing SVG"
 />
 
-  <br/>
-  <p>
-    사회에 필요한 문제를 기술로 풀어내고 싶은 백엔드 개발자입니다.<br/>
-  </p>
-  <p>
+<p>사회에 필요한 문제를 기술로 풀어내고 싶은 백엔드 개발자입니다.</p>
 
 </div>
 
@@ -25,10 +21,10 @@
 
 ## 💼 Experience
 
-| 기간 | 회사 | 
-|:--|:--|
-| 2026.09 – 현재 |**LG AI연구원**|
-| 2026.08 – 2026.09 |**나이스 인베스팅**|
+| 기간 | 회사 | 하는 일 |
+|:--|:--|:--|
+| 2026.09 – 현재 | **LG AI연구원** (인턴) | AI 서비스 백엔드 · 서비스 간 internal API 설계·구현 (Python, FastAPI, PostgreSQL) |
+| 2026.08 – 2026.09 | **나이스 인베스팅** | |
 
 ## 📜 Certifications & Language
 
@@ -39,37 +35,110 @@
 
 ## 🛠 Tech Stack
 
-**Backend & AI**<br/>
-<img src="https://img.shields.io/badge/Java-FF8FB3?style=flat-square&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/Spring Boot-F48FB1?style=flat-square&logo=springboot&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-D96C96?style=flat-square&logo=nodedotjs&logoColor=white" />
+**Backend**<br/>
 <img src="https://img.shields.io/badge/Python-C9A7FF?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/FastAPI-BFA2DB?style=flat-square&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenAI-9F7AEA?style=flat-square&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Pydantic-D96C96?style=flat-square&logo=pydantic&logoColor=white" />
+<img src="https://img.shields.io/badge/SQLAlchemy-F48FB1?style=flat-square&logo=sqlalchemy&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-FF8FB3?style=flat-square&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring%20Boot-F48FB1?style=flat-square&logo=springboot&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-D96C96?style=flat-square&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Express-BFA2DB?style=flat-square&logo=express&logoColor=white" />
 
-**Data & Infra**<br/>
-<img src="https://img.shields.io/badge/MySQL-F7A8C6?style=flat-square&logo=mysql&logoColor=white" />
+**Data & Messaging**<br/>
 <img src="https://img.shields.io/badge/PostgreSQL-C9A7FF?style=flat-square&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-D96C96?style=flat-square&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/Redis-F06292?style=flat-square&logo=redis&logoColor=white" />
 <img src="https://img.shields.io/badge/RabbitMQ-F59EBC?style=flat-square&logo=rabbitmq&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-BFA2DB?style=flat-square&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS-111827?style=flat-square&logo=amazonaws&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub Actions-C9A7FF?style=flat-square&logo=githubactions&logoColor=white" />
+<img src="https://img.shields.io/badge/Alembic-BFA2DB?style=flat-square" />
+<img src="https://img.shields.io/badge/Flyway-F48FB1?style=flat-square&logo=flyway&logoColor=white" />
 
-**Frontend & Tools**<br/>
-<img src="https://img.shields.io/badge/React-FFB6C1?style=flat-square&logo=react&logoColor=111827" />
-<img src="https://img.shields.io/badge/TypeScript-C9A7FF?style=flat-square&logo=typescript&logoColor=white" />
+**AI**<br/>
+<img src="https://img.shields.io/badge/RAG-C9A7FF?style=flat-square&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Qwen%20VLM-D96C96?style=flat-square&logo=alibabacloud&logoColor=white" />
+<img src="https://img.shields.io/badge/YOLO-F59EBC?style=flat-square&logo=yolo&logoColor=white" />
+
+**Cloud & Tools**<br/>
+<img src="https://img.shields.io/badge/Google%20Cloud-C9A7FF?style=flat-square&logo=googlecloud&logoColor=white" />
+<img src="https://img.shields.io/badge/pytest-F48FB1?style=flat-square&logo=pytest&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F06292?style=flat-square&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitLab-D96C96?style=flat-square&logo=gitlab&logoColor=white" />
+<img src="https://img.shields.io/badge/React-FFB6C1?style=flat-square&logo=react&logoColor=111827" />
+
+</div>
+
+<br/>
+
+<div align="center">
 
 ## 🚀 Projects
 
-| 프로젝트 | 설명 | 주요 성과 | Stack | Link |
-|:--|:--|:--|:--|:--|
-| **LLMong** | AI 문서 파싱 · RAG 질의응답 | 캡스톤 AI 부문 우수상·인기상, KICS 논문 2편 | FastAPI, Redis, RabbitMQ, Qwen VLM | [Repo](https://github.com/kookmin-sw/2026-capstone-23) · [Page](https://kookmin-sw.github.io/2026-capstone-23/) |
-| **AIL-ways** | AI 기반 스마트 멘토링 시스템 | 팀장 | Spring Boot, FastAPI, YOLO, MongoDB | [Repo](https://github.com/gahyeon1022/AIL-ways) |
-| **FesNote** | 공연 기록 캘린더 웹 서비스 | 실사용자 1,200명+, 조회수 10만+ | Node.js, Express, MongoDB, React | [Repo](https://github.com/gahyeon1022/fesnote-showcase) · [Service](https://fesnote.vercel.app) |
-| **Do-web** | 동아리 홈페이지 백엔드 | 동아리 실사용 중 | Spring Boot, PostgreSQL, Flyway | [Repo](https://github.com/gahyeon1022/doweb-showcase) · [Service](https://doum-page.vercel.app/) |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>LLMong</h3>
+      <p><b>AI 문서 파싱 · RAG 질의응답</b></p>
+      <p>
+        캡스톤 AI 부문 <b>우수상 · 인기상</b><br/>
+        KICS 논문 <b>2편</b>
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/FastAPI-BFA2DB?style=flat-square&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/Redis-F06292?style=flat-square&logo=redis&logoColor=white" />
+        <img src="https://img.shields.io/badge/RabbitMQ-F59EBC?style=flat-square&logo=rabbitmq&logoColor=white" />
+        <img src="https://img.shields.io/badge/Qwen%20VLM-D96C96?style=flat-square" />
+      </p>
+      <a href="https://github.com/kookmin-sw/2026-capstone-23"><img src="https://img.shields.io/badge/Repo-4F3547?style=for-the-badge&logo=github&logoColor=white" /></a>
+      <a href="https://kookmin-sw.github.io/2026-capstone-23/"><img src="https://img.shields.io/badge/Page-D96C96?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>FesNote</h3>
+      <p><b>공연 기록 캘린더 웹 서비스</b></p>
+      <p>
+        실사용자 <b>1,200명+</b><br/>
+        조회수 <b>10만+</b>
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Node.js-D96C96?style=flat-square&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Express-BFA2DB?style=flat-square&logo=express&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-D96C96?style=flat-square&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-FFB6C1?style=flat-square&logo=react&logoColor=111827" />
+      </p>
+      <a href="https://github.com/gahyeon1022/fesnote-showcase"><img src="https://img.shields.io/badge/Repo-4F3547?style=for-the-badge&logo=github&logoColor=white" /></a>
+      <a href="https://fesnote.vercel.app"><img src="https://img.shields.io/badge/Service-D96C96?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>AIL-ways</h3>
+      <p><b>AI 기반 스마트 멘토링 시스템</b></p>
+      <p>
+        <b>팀장</b>
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Spring%20Boot-F48FB1?style=flat-square&logo=springboot&logoColor=white" />
+        <img src="https://img.shields.io/badge/FastAPI-BFA2DB?style=flat-square&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/YOLO-F59EBC?style=flat-square" />
+        <img src="https://img.shields.io/badge/MongoDB-D96C96?style=flat-square&logo=mongodb&logoColor=white" />
+      </p>
+      <a href="https://github.com/gahyeon1022/AIL-ways"><img src="https://img.shields.io/badge/Repo-4F3547?style=for-the-badge&logo=github&logoColor=white" /></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Do-web</h3>
+      <p><b>동아리 홈페이지 백엔드</b></p>
+      <p>
+        동아리 <b>실사용 중</b>
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Spring%20Boot-F48FB1?style=flat-square&logo=springboot&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-C9A7FF?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Flyway-F48FB1?style=flat-square&logo=flyway&logoColor=white" />
+      </p>
+      <a href="https://github.com/gahyeon1022/doweb-showcase"><img src="https://img.shields.io/badge/Repo-4F3547?style=for-the-badge&logo=github&logoColor=white" /></a>
+      <a href="https://doum-page.vercel.app/"><img src="https://img.shields.io/badge/Service-D96C96?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+    </td>
+  </tr>
+</table>
 
 </div>
 
