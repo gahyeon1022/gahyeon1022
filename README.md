@@ -87,10 +87,6 @@
       <h3>LLMong</h3>
       <p><b>AI 문서 파싱 · RAG 질의응답</b></p>
       <p>
-        캡스톤 AI 부문 <b>우수상 · 인기상</b><br/>
-        KICS 논문 <b>2편</b>
-      </p>
-      <p>
         <img src="https://img.shields.io/badge/FastAPI-BFA2DB?style=flat-square&logo=fastapi&logoColor=white" />
         <img src="https://img.shields.io/badge/Redis-F06292?style=flat-square&logo=redis&logoColor=white" />
         <img src="https://img.shields.io/badge/RabbitMQ-F59EBC?style=flat-square&logo=rabbitmq&logoColor=white" />
