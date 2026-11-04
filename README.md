@@ -17,12 +17,7 @@
     사용자의 불편을 발견하고, 안정적인 서버와 AI 기술로 실제 서비스까지 연결하는 데 관심이 있습니다.
   </p>
   <p>
-    <a href="https://www.instagram.com/imgahyoiess" target="_blank">
 
-    <a href="mailto:gahyeon1022@kookmin.ac.kr">
-      <img src="https://img.shields.io/badge/Mail-D96C96?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail" />
-    </a>
-  </p>
 </div>
 
 <br/>
