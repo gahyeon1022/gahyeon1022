@@ -18,8 +18,7 @@
   </p>
   <p>
     <a href="https://www.instagram.com/imgahyoiess" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-F06292?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-    </a>
+
     <a href="mailto:gahyeon1022@kookmin.ac.kr">
       <img src="https://img.shields.io/badge/Mail-D96C96?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail" />
     </a>
