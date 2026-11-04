@@ -28,6 +28,8 @@
 
 ## 📜 Awards & Papers
 
+| 구분 | 내용 |
+|:--|:--|
 | 수상 | Capstone Design (AI Track) 우수상 · 인기상 |
 | 논문 | 2 papers presented at KICS Conference |
 
