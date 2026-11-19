@@ -21,10 +21,10 @@
 
 ## 💼 Experience
 
-| 기간 | 회사 |
-|:--|:--|
-| 2026.09 – 현재 | **LG AI연구원** |
-| 2026.08 – 2026.09 | **나이스 인베스팅** |
+| 기간 | 회사 | 직무 |
+|:--|:--| :-- |
+| 2026.09 – 현재 | **LG AI연구원** | Backend Internship |
+| 2026.08 – 2026.09 | **나이스 인베스팅** | Service planning |
 
 ## 🏆 Awards & Papers
 
@@ -46,17 +46,12 @@
 **Backend**<br/>
 <img src="https://img.shields.io/badge/Python-C9A7FF?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/FastAPI-BFA2DB?style=flat-square&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/SQLAlchemy-F48FB1?style=flat-square&logo=sqlalchemy&logoColor=white" />
 <img src="https://img.shields.io/badge/Java-FF8FB3?style=flat-square&logo=openjdk&logoColor=white" />
 <img src="https://img.shields.io/badge/Spring%20Boot-F48FB1?style=flat-square&logo=springboot&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-D96C96?style=flat-square&logo=nodedotjs&logoColor=white" />
 
 **Data & Messaging**<br/>
 <img src="https://img.shields.io/badge/PostgreSQL-C9A7FF?style=flat-square&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-D96C96?style=flat-square&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/Redis-F06292?style=flat-square&logo=redis&logoColor=white" />
-<img src="https://img.shields.io/badge/RabbitMQ-F59EBC?style=flat-square&logo=rabbitmq&logoColor=white" />
-<img src="https://img.shields.io/badge/Alembic-BFA2DB?style=flat-square" />
 <img src="https://img.shields.io/badge/Flyway-F48FB1?style=flat-square&logo=flyway&logoColor=white" />
 
 **AI**<br/>
@@ -65,12 +60,9 @@
 <img src="https://img.shields.io/badge/YOLO-F59EBC?style=flat-square&logo=yolo&logoColor=white" />
 <img src="https://img.shields.io/badge/Claude%20Code%20%2F%20MCP-BFA2DB?style=flat-square&logo=anthropic&logoColor=white" />
 
-**Cloud & DevOps**<br/>
+**Cloud**<br/>
 <img src="https://img.shields.io/badge/Google%20Cloud-C9A7FF?style=flat-square&logo=googlecloud&logoColor=white" />
 <img src="https://img.shields.io/badge/Cloud%20Storage-BFA2DB?style=flat-square&logo=googlecloudstorage&logoColor=white" />
-<img src="https://img.shields.io/badge/Argo%20CD-D96C96?style=flat-square&logo=argo&logoColor=white" />
-<img src="https://img.shields.io/badge/Backstage-F48FB1?style=flat-square&logo=backstage&logoColor=white" />
-<img src="https://img.shields.io/badge/Vault-F59EBC?style=flat-square&logo=vault&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F06292?style=flat-square&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitLab-D96C96?style=flat-square&logo=gitlab&logoColor=white" />
 
